@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Share/CLEF eHealth 2013 TASK 3 Results by relevation - Information Retrieval Relevance Judging System</title>
+   <meta name="description" content="">
+    <meta name="author" content="CLEF 2013 Task 3 Committee">
+    <link rel="stylesheet" href="bootstrap.css">
+    <style type="text/css">
+        body { padding-top: 60px; font-size: 12px; }
+        label, button, .btn { font-size: 12px; }
+    </style>
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="./clef_eval_files/jquery.min.js"></script>
+    <script src="./clef_eval_files/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet">
+<style type="text/css">@media print { #feedlyMiniIcon { display: none; } }</style></head>
+
+<body style="zoom: 1;">
+<div class="container">
+<div class="well">
+        <h1>Share/CLEF eHealth 2013 TASK 3 Results - KISTI_EN_Run</h1>
+        <p>This page summarises the results obtained from your submissions. Here, you can find the mean performance of your submissions, for all standard trec_eval measures and for nDCG at different ranks.</br> For this first year, the Share/CLEF eHealth 2013 TASK 3 built result pools from your submissions considering the top 10 documents ranked by your baseline system (run 1), and the highest priority run that used the discharge summaries (run 2) and the highest priority run that did not used the discharge summaries (run 5). As a consequence:<ul><li>the <b>primary measure for this year is precision at 10 (P@10)</b>,</li><li>the <b>secondary measure is Normalised Discounted Cumulative Gain at rank 10</b> (ndcg_cut_10).</li></ul>Per-query performance can be found in the <i>evals</i> folder in the directory containing this HTML page.</br>Some of the participant's runs contained formatting errors (the most common was the use of a numeric query id in place of the official qtestXX id); others did not retrieve results for some queries. To fairly evaluate the runs of every participant, submitted runs containing formatting errors have been corrected; an artificial document (fakeCLEF) has been added to the result rankings for queries where no result was retrieved. Your runs as have been evaluated are contained in the folder <i>runs</i>.</br>Please refer to the <a href="https://sites.google.com/site/shareclefehealth/">ShARe/CLEF 2013 eHealth Evaluation Lab website</a> for additional details on the task.</p>
+    </div>
+    <div class="row">
+        <div class="span9">
+            <h2>Evaluation with standard trec_eval metrics</h2>
+        <p>These results have been obtained with the binary relevance assessment, i.e. qrels.clef2014.test.bin.txt, and trec_eval 9.0 <a href="http://trec.nist.gov/trec_eval/">as distributed by NIST</a>. Trec_eval was ran as follows:</p>
+<pre>./trec_eval -c -M1000 qrels.clef2014.test.bin.txt runName</pre>
+ <h4>KISTI_EN_Run.1.dat</h4>
+            <pre>
+runid                 	all	0
+num_q                 	all	50
+num_ret               	all	48063
+num_rel               	all	3209
+num_rel_ret           	all	2567
+map                   	all	0.3978
+gm_map                	all	0.3278
+Rprec                 	all	0.4057
+bpref                 	all	0.5731
+recip_rank            	all	0.8431
+iprec_at_recall_0.00  	all	0.9029
+iprec_at_recall_0.10  	all	0.8039
+iprec_at_recall_0.20  	all	0.6899
+iprec_at_recall_0.30  	all	0.6051
+iprec_at_recall_0.40  	all	0.4903
+iprec_at_recall_0.50  	all	0.3851
+iprec_at_recall_0.60  	all	0.2755
+iprec_at_recall_0.70  	all	0.1944
+iprec_at_recall_0.80  	all	0.1227
+iprec_at_recall_0.90  	all	0.0810
+iprec_at_recall_1.00  	all	0.0189
+P_5                   	all	0.7400
+P_10                  	all	0.7300
+P_15                  	all	0.6920
+P_20                  	all	0.6430
+P_30                  	all	0.5553
+P_100                 	all	0.2968
+P_200                 	all	0.1875
+P_500                 	all	0.0925
+P_1000                	all	0.0513
+</pre>
+ <h4>KISTI_EN_Run.2.dat</h4>
+            <pre>
+runid                 	all	0
+num_q                 	all	50
+num_ret               	all	48063
+num_rel               	all	3209
+num_rel_ret           	all	2567
+map                   	all	0.3989
+gm_map                	all	0.3287
+Rprec                 	all	0.4103
+bpref                 	all	0.5735
+recip_rank            	all	0.8474
+iprec_at_recall_0.00  	all	0.9009
+iprec_at_recall_0.10  	all	0.7967
+iprec_at_recall_0.20  	all	0.6965
+iprec_at_recall_0.30  	all	0.6064
+iprec_at_recall_0.40  	all	0.4967
+iprec_at_recall_0.50  	all	0.3855
+iprec_at_recall_0.60  	all	0.2803
+iprec_at_recall_0.70  	all	0.1965
+iprec_at_recall_0.80  	all	0.1224
+iprec_at_recall_0.90  	all	0.0813
+iprec_at_recall_1.00  	all	0.0189
+P_5                   	all	0.7320
+P_10                  	all	0.7400
+P_15                  	all	0.6973
+P_20                  	all	0.6450
+P_30                  	all	0.5560
+P_100                 	all	0.2970
+P_200                 	all	0.1875
+P_500                 	all	0.0925
+P_1000                	all	0.0513
+</pre>
+ <h4>KISTI_EN_Run.3.dat</h4>
+            <pre>
+runid                 	all	0
+num_q                 	all	50
+num_ret               	all	48063
+num_rel               	all	3209
+num_rel_ret           	all	2567
+map                   	all	0.3959
+gm_map                	all	0.3278
+Rprec                 	all	0.4113
+bpref                 	all	0.5724
+recip_rank            	all	0.8517
+iprec_at_recall_0.00  	all	0.9022
+iprec_at_recall_0.10  	all	0.7904
+iprec_at_recall_0.20  	all	0.6943
+iprec_at_recall_0.30  	all	0.5986
+iprec_at_recall_0.40  	all	0.4909
+iprec_at_recall_0.50  	all	0.3876
+iprec_at_recall_0.60  	all	0.2801
+iprec_at_recall_0.70  	all	0.1953
+iprec_at_recall_0.80  	all	0.1223
+iprec_at_recall_0.90  	all	0.0810
+iprec_at_recall_1.00  	all	0.0189
+P_5                   	all	0.7240
+P_10                  	all	0.7160
+P_15                  	all	0.6947
+P_20                  	all	0.6460
+P_30                  	all	0.5567
+P_100                 	all	0.2968
+P_200                 	all	0.1875
+P_500                 	all	0.0925
+P_1000                	all	0.0513
+</pre>
+ <h4>KISTI_EN_Run.5.dat</h4>
+            <pre>
+runid                 	all	0
+num_q                 	all	50
+num_ret               	all	48063
+num_rel               	all	3209
+num_rel_ret           	all	2567
+map                   	all	0.3977
+gm_map                	all	0.3273
+Rprec                 	all	0.4078
+bpref                 	all	0.5736
+recip_rank            	all	0.8331
+iprec_at_recall_0.00  	all	0.8989
+iprec_at_recall_0.10  	all	0.7994
+iprec_at_recall_0.20  	all	0.6909
+iprec_at_recall_0.30  	all	0.6045
+iprec_at_recall_0.40  	all	0.4904
+iprec_at_recall_0.50  	all	0.3853
+iprec_at_recall_0.60  	all	0.2750
+iprec_at_recall_0.70  	all	0.1946
+iprec_at_recall_0.80  	all	0.1227
+iprec_at_recall_0.90  	all	0.0810
+iprec_at_recall_1.00  	all	0.0189
+P_5                   	all	0.7440
+P_10                  	all	0.7280
+P_15                  	all	0.6867
+P_20                  	all	0.6400
+P_30                  	all	0.5553
+P_100                 	all	0.2966
+P_200                 	all	0.1875
+P_500                 	all	0.0925
+P_1000                	all	0.0513
+</pre>
+ <h4>KISTI_EN_Run.6.dat</h4>
+            <pre>
+runid                 	all	0
+num_q                 	all	50
+num_ret               	all	48063
+num_rel               	all	3209
+num_rel_ret           	all	2567
+map                   	all	0.3971
+gm_map                	all	0.3285
+Rprec                 	all	0.4044
+bpref                 	all	0.5731
+recip_rank            	all	0.8472
+iprec_at_recall_0.00  	all	0.9067
+iprec_at_recall_0.10  	all	0.7933
+iprec_at_recall_0.20  	all	0.6918
+iprec_at_recall_0.30  	all	0.6009
+iprec_at_recall_0.40  	all	0.4900
+iprec_at_recall_0.50  	all	0.3849
+iprec_at_recall_0.60  	all	0.2751
+iprec_at_recall_0.70  	all	0.1941
+iprec_at_recall_0.80  	all	0.1225
+iprec_at_recall_0.90  	all	0.0807
+iprec_at_recall_1.00  	all	0.0189
+P_5                   	all	0.7440
+P_10                  	all	0.7240
+P_15                  	all	0.6947
+P_20                  	all	0.6480
+P_30                  	all	0.5547
+P_100                 	all	0.2966
+P_200                 	all	0.1875
+P_500                 	all	0.0925
+P_1000                	all	0.0513
+</pre>
+
+<h2>Evaluation with nDCG</h2>
+        <p>These results have been obtained with the graded relevance assessment, i.e. qrels.clef2014.test.graded.txt, and trec_eval 9.0 <a href="http://trec.nist.gov/trec_eval/">as distributed by NIST</a>.</br>To obtain nDCG at different ranks, trec_eval was ran as follows:</p>
+<pre>./trec_eval -c -M1000 -m ndcg_cut qrels.clef2014.test.graded.txt runName</pre>
+ <h4>KISTI_EN_Run.1.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7195
+ndcg_cut_10           	all	0.7235
+ndcg_cut_15           	all	0.7049
+ndcg_cut_20           	all	0.6771
+ndcg_cut_30           	all	0.6233
+ndcg_cut_100          	all	0.5418
+ndcg_cut_200          	all	0.5998
+ndcg_cut_500          	all	0.6615
+ndcg_cut_1000         	all	0.6916
+</pre>
+ <h4>KISTI_EN_Run.2.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7191
+ndcg_cut_10           	all	0.7301
+ndcg_cut_15           	all	0.7087
+ndcg_cut_20           	all	0.6788
+ndcg_cut_30           	all	0.6254
+ndcg_cut_100          	all	0.5428
+ndcg_cut_200          	all	0.6006
+ndcg_cut_500          	all	0.6623
+ndcg_cut_1000         	all	0.6924
+</pre>
+ <h4>KISTI_EN_Run.3.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7187
+ndcg_cut_10           	all	0.7171
+ndcg_cut_15           	all	0.7042
+ndcg_cut_20           	all	0.6774
+ndcg_cut_30           	all	0.6252
+ndcg_cut_100          	all	0.5416
+ndcg_cut_200          	all	0.5996
+ndcg_cut_500          	all	0.6613
+ndcg_cut_1000         	all	0.6914
+</pre>
+ <h4>KISTI_EN_Run.5.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7194
+ndcg_cut_10           	all	0.7211
+ndcg_cut_15           	all	0.7008
+ndcg_cut_20           	all	0.6741
+ndcg_cut_30           	all	0.6229
+ndcg_cut_100          	all	0.5412
+ndcg_cut_200          	all	0.5994
+ndcg_cut_500          	all	0.6611
+ndcg_cut_1000         	all	0.6912
+</pre>
+ <h4>KISTI_EN_Run.6.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7218
+ndcg_cut_10           	all	0.7187
+ndcg_cut_15           	all	0.7047
+ndcg_cut_20           	all	0.6786
+ndcg_cut_30           	all	0.6230
+ndcg_cut_100          	all	0.5415
+ndcg_cut_200          	all	0.5997
+ndcg_cut_500          	all	0.6613
+ndcg_cut_1000         	all	0.6914
+</pre>
+
+<h2>Plots P@10</h2>
+<p>The plots below compare each of your runs against the median and best performance (p@10) across all systems  submitted to CLEF for each query topic. In particular, for each query, the height of a bar represents the gain/loss of your system and the best system (for that query) over the median system. The height of a bar in then given by:</p>
+<pre>grey bars:   height(q) = your_p@10(q) - median_p@10(q)
+white bars:  height(q) = best_p@10(q) - median_p@10(q)</pre>
+
+ <h4>KISTI_EN_Run.1.dat</h4>
+<img src="./img/KISTI_EN_Run.1.dat.p10.png"/>
+ <h4>KISTI_EN_Run.2.dat</h4>
+<img src="./img/KISTI_EN_Run.2.dat.p10.png"/>
+ <h4>KISTI_EN_Run.3.dat</h4>
+<img src="./img/KISTI_EN_Run.3.dat.p10.png"/>
+ <h4>KISTI_EN_Run.5.dat</h4>
+<img src="./img/KISTI_EN_Run.5.dat.p10.png"/>
+ <h4>KISTI_EN_Run.6.dat</h4>
+<img src="./img/KISTI_EN_Run.6.dat.p10.png"/>
+      </div>
+    </div>
+
+    <p></p><hr><p></p>
+    <footer class="row">
+        <div class="span6">
+           <p><a href="https://github.com/bevankoopman/relevation">relevation</a> - Information Retrieval Relevance Judging System</p>
+      </div>
+    </footer>
+</div> <!-- container -->
+</body></html>

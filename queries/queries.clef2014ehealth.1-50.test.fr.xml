@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+<topic>
+    <id>qtest2014.1</id>
+    <discharge_summary>00211-027889-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Maladie coronarienne</title>
+    <desc>Qu'est-ce qu'une maladie coronarienne ? </desc>
+    <narr>Les documents doivent contenir des informations de base sur la maladie coronarienne et les soins liés à celle-ci.</narr>
+    <profile>Cette femme positive de 83 ans souffre des problèmes cardiaques et d'un essoufflement qui s'aggrave depuis un certain temps. Maintenant, elle a reçu un diagnostic de ces problèmes après une visite chez le médecin. Elle et sa fille sont à la recherche d'informations sur internet concernant la maladie diagnostiquée. Elles ne savent rien sur la maladie.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.2</id>
+    <discharge_summary>01234-029456-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Septicémie</title>
+    <desc>La septicémie pourrait-elle être la cause de la mort ?</desc>
+    <narr>Le document doit contenir des informations sur la septicémie en général et ses possibles conséquences.</narr>
+    <profile>La patiente était une femme de 83 ans qui est morte après une septicémie. Sa fille veut savoir si la septicémie est une cause possible de sa mort. Elle ne sait pas ce que signifie la septicémie.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.3</id>
+    <discharge_summary>01314-028800-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Hemopneumothorax gauche</title>
+    <desc>Quelles sont les complications tardives de l'hemopneumothorax ?</desc>
+    <narr>Le document doit contenir des informations sur les complications tardives de l'hemopneumothorax. </narr>
+    <profile>Un homme de 70 ans conduisait sa voiture sans ceinture de sécurité et il a eu un accident. Il a de multiples fractures dans la poitrine et ailleurs. Ses parents veulent savoir comment ils doivent prendre soin de lui à la maison. On leur a conseillé de vérifier régulièrement s'il souffre de douleurs thoraciques, d'essoufflement, de nausées ou de vomissements sévères, d'une forte fièvre ou d'une faiblesse. Ils veulent savoir pourquoi.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.4</id>
+    <discharge_summary>02115-010823-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Lésion cérébrale anoxique</title>
+    <desc>Peut-on ressentir de la douleur avec une grave lésion cérébrale ?</desc>
+    <narr>Le document doit contenir des informations sur les lésions cérébrales et la douleur.</narr>
+    <profile>La fille de cette femme de 87 ans décédée veut savoir s'il est possible que sa mère ne se soit pas aperçu de la douleur pendant ses derniers jours à cause de sa grave lésion cérébrale. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.5</id>
+    <discharge_summary>02136-017465-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Saignement gastro-intestinal supérieur</title>
+    <desc>Quelles sont les causes possibles du saignement gastro-intestinal supérieur ?</desc>
+    <narr>Le document doit contenir des informations sur les causes possibles du saignement gastro-intestinal.</narr>
+    <profile>Ce patient de sexe masculin connaît la plupart de ses maladies mais il veut savoir maintenant ce qui pouvait causer son saignement gastro-intestinal. Il n'a pas obtenu une réponse claire du médecin et son compte-rendu d'hospitalisation n'a pas révélé de réponse non plus. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.6</id>
+    <discharge_summary>02410-026171-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Sténose aortique</title>
+    <desc>Qu'est-ce qu'une sténose aortique et comment est-elle traitée ?</desc>
+    <narr>Le document doit contenir des informations sur la sténose aortique et ses options de traitement.</narr>
+    <profile>Cet homme de 71 ans a souffert d'une sténose aortique auparavant et il est familier avec la maladie. Il sait beaucoup de choses sur sa maladie mais comme sa dernière opération date, il veut mettre à jour ses connaissances sur la maladie et son traitement.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.7</id>
+    <discharge_summary>02652-006395-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Abcès causé par des calculs biliaires libérés, côté droit</title>
+    <desc>Comment peut-on être atteint d'un abcès de calculs biliaires libérés et est-ce fréquent ?</desc>
+    <narr>Le document doit contenir des informations sur les calculs biliaires, les abcès, leur fréquence et leurs causes.</narr>
+    <profile>Ce patient est un homme âgé relativement sain. Il veut en savoir plus sur les calculs biliaires et surtout sur les causes des abcès et la libération des calculs.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.8</id>
+    <discharge_summary>03273-009330-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Crises du sevrage de l'alcool</title>
+    <desc>Quel est le danger des crises du sevrage de l'alcool ?</desc>
+    <narr>Le document doit contenir des informations sur les crises du sevrage de l'alcool et leurs conséquences.</narr>
+    <profile>Cet homme de 47 ans a une longue histoire de consommation d'alcool et de drogues. Sa soeur veut expliquer à leurs parents le problème de crises du sevrage d'alcool et ses conséquences.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.9</id>
+    <discharge_summary>04269-027967-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Pneumonie du lobe supérieur droit avec lésion cavitaire</title>
+    <desc>Qu'est-ce qu'une lésion cavitaire dans le cadre de la pneumonie du lobe supérieur ?</desc>
+    <narr>Le document doit contenir des informations sur la pneumonie du lobe supérieur et les lésions cavitaires</narr>
+    <profile>Cet homme de 39 ans a été en bonne santé la plupart du temps mais maintenant il est atteint de pneumonie après une aspiration. Il veut en savoir plus sur ce sujet car il se sent mal et très fatigué depuis.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.10</id>
+    <discharge_summary>04303-005081-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Lésion cérébrale traumatique, état ​​après la chute</title>
+    <desc>Quelles sont les possibles conséquences d'une lésion cérébrale ?</desc>
+    <narr>Le document doit contenir des informations sur les lésions cérébrales et ses conséquences possibles.</narr>
+    <profile>Le patient a une lésion cérébrale suite à une chute. Lui et ses enfants veulent savoir ce qu'ils doivent savoir alors qu'il sort de l'hôpital et qu'il y a toujours un risque de saignement.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.11</id>
+    <discharge_summary>07429-001857-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Pneumonie d'aspiration en raison de la mauvaise position du tube Dobhoff</title>
+    <desc>Qu'est-ce qu'un tube Dobhoff et pourquoi il a causé la pneumonie ?</desc>
+    <narr>Le document doit contenir des informations sur le tube Dobhoff et les conséquences de sa mauvaise position.</narr>
+    <profile>Cette femme âgée a subi un grave accident de voiture. Elle a besoin d'un tube d'alimentation. Le tube a été accidentellement placé dans son poumon à la place de l'estomac. Ceci a causé une pneumonie. La famille veut savoir si c'est un problème commun ou plutôt un accident rare.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.12</id>
+    <discharge_summary>07514-025655-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Encéphalopathie hépatique</title>
+    <desc>Qu'est-ce qu'une encéphalopathie hépatique et pourquoi elle cause de la confusion ?</desc>
+    <narr>Le document doit contenir des informations sur l'encéphalopathie hépatique et ses conséquences.</narr>
+    <profile>Le patient a des antécédents d'hépatite C et souffre maintenant de l'encéphalopathie hépatique. Le patient et sa femme veulent en savoir plus sur ce problème effrayant et son danger réel.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.13</id>
+    <discharge_summary>08703-021487-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Etat après une laryngectomie à champ étroit</title>
+    <desc>Qu'est-ce qu'une laryngectomie à champ étroit ?</desc>
+    <narr>Le document doit contenir des informations sur la laryngectomie à champ étroit. </narr>
+    <profile>Ce jeune homme, atteint de syndrome de Down et une aspiration chronique depuis longtemps, a subi une opération de son larynx. La famille du patient veut en savoir plus sur la procédure qui a été appliquée.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.14</id>
+    <discharge_summary>09337-018472-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Infarctus du myocarde</title>
+    <desc>Qu'est-ce qu'un infarctus du myocarde ?</desc>
+    <narr>Le document doit contenir des informations sur l'infarctus du myocarde.</narr>
+    <profile>Cette vieille dame a eu son premier infarctus du myocarde et elle et sa famille veulent en savoir plus sur la maladie puisque personne dans sa famille n'a jamais eu de maladies cardiaques.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.15</id>
+    <discharge_summary>10101-012638-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Cancer bronchique non à petites cellules</title>
+    <desc>Le cancer bronchique est-il héréditaire ? </desc>
+    <narr>Le document doit contenir des informations sur les différents types du cancer bronchique et la probabilité de son hérédité.</narr>
+    <profile>Ce patient mâle de 74 ans meurt d'un cancer du poumon et ses enfants veulent savoir s'il est probable qu'ils soient un jour eux aussi atteints de cancer du poumon.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.16</id>
+    <discharge_summary>10644-007491-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Accident vasculaire cérébral et insuffisance respiratoire</title>
+    <desc>Y a-t-il une liaison entre un accident vasculaire cérébral et une insuffisance respiratoire ?</desc>
+    <narr>Le document doit contenir des informations sur l'accident vasculaire cérébral et l'insuffisance respiratoire.</narr>
+    <profile>Ce prêtre de 78 ans a guérit après un accident vasculaire cérébral et il veut savoir maintenant comment son liés ses deux diagnostics, l'accident vasculaire cérébral et l'insuffisance respiratoire.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.17</id>
+    <discharge_summary>11439-014138-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Ulcère duodénal chronique</title>
+    <desc>Est-il fréquent que l'ulcère commence à saigner de nouveau ?</desc>
+    <narr>Le document doit contenir des informations sur les ulcères duodénaux chroniques.</narr>
+    <profile>Cet homme d'âge moyen, sain auparavant, a eu des selles sanglantes pendant plusieurs jours et on a constaté qu'il avait des ulcères duodénaux chroniques. Lui et sa femme veulent en savoir plus à propos de la maladie car le père de l'homme est mort d'une hémorragie gastro-intestinale.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.18</id>
+    <discharge_summary>11762-027273-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>vertiges et hypotension</title>
+    <desc>Comment prévenir les vertiges et l'hypotension ?</desc>
+    <narr>Le document doit contenir des informations sur les vertiges et l'hypotension.</narr>
+    <profile>Cette dame de 63 ans vit dans un foyer de groupe à cause de sa maladie mentale. Elle s'est évanouie et on l'a hospitalisée. Maintenant, qu'elle est de retour à la maison, ses aidants veulent savoir comment ils peuvent prévenir au mieux un nouveau malaise. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.19</id>
+    <discharge_summary>11823-007872-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Anévrisme de la carotide commune gauche</title>
+    <desc>Qu'est-ce qu'un anévrisme de la carotide commune ?</desc>
+    <narr>Le document doit contenir des informations sur l'anévrisme de la carotide commune gauche.</narr>
+    <profile>Ce jeune homme a eu des examens et les résultats ont démontré qu'il avait un anévrisme de la carotide commune. Lui et sa famille veulent en savoir plus sur cette maladie.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.20</id>
+    <discharge_summary>12748-021750-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Hématome sous-dural</title>
+    <desc>Qu'est-ce qu'un hématome sous-dural et peut-on s'en remettre ?</desc>
+    <narr>Le document doit contenir des informations sur l'hématome sous-dural, ses conséquences et la possibilité de s'en remettre.</narr>
+    <profile>Les parents de cette femme veulent en savoir plus sur l'hématome sous-dural, la maladie dont souffre leur fille. Ils veulent aussi savoir si leur fille pourra jamais guérir.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.21</id>
+    <discharge_summary>13033-020154-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Insuffisance rénale</title>
+    <desc>Quel est le danger de l'insuffisance rénale et est-ce qu'elle se répète ?</desc>
+    <narr>Le document doit contenir des informations sur l'insuffisance rénale, ses causes et ses conséquences.</narr>
+    <profile>Le patient est atteint de diabète, d'hypertension et de gastroparésie. Ses reins ne fonctionnent plus bien et il veut en savoir plus sur l'insuffisance rénale.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.22</id>
+    <discharge_summary>14708-006815-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Idées suicidaires</title>
+    <desc>La réapparition des idées suicidaires est-elle fréquente ?</desc>
+    <narr>Le document doit contenir des informations sur les idées suicidaires.</narr>
+    <profile>Les parents de cet homme de 40 ans veulent savoir s'il est probable que leur fils atteint d'un trouble schizo-affectif soit susceptible de répéter sa tentative de suicide. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.23</id>
+    <discharge_summary>14822-000161-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Pontage coronarien</title>
+    <desc>Quelle est l'efficacité du pontage coronarien dans la guérison de la maladie ?</desc>
+    <narr>Le document doit contenir des informations sur le pontage coronarien et son efficacité.</narr>
+    <profile>Cette vieille dame a refusé une opération de pontage coronarien auparavant mais maintenant elle a décidé de la subir après tout. Maintenant, elle et ses enfants veulent en savoir plus sur l'opération et son efficacité.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.24</id>
+    <discharge_summary>http://computing.dcu.ie/~lgoeuriot/clefehealth-queries/08951-002958-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Diabète de type 1 et problèmes cardiaques</title>
+    <desc>Comment le diabète de type 1 influence-t-il la fonction cardiaque ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur le diabète de type 1 et sa relation avec les problèmes de circulation, en particulier en ce qui concerne les vaisseaux cardiaques.</narr>
+    <profile> Le patient est un homme de 71 ans avec des antécédents de quatre pontages coronariens et de diabète. Il a de nouveau des problèmes cardiaques et il souhaite savoir si l'interaction des deux maladies va affecter sa vie.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.25</id>
+    <discharge_summary>14897-025566-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Accident vasculaire cérébral</title>
+    <desc>Qu'est-ce qu'un accident vasculaire cérébral ?</desc>
+    <narr>Le document doit contenir des informations de base sur l'accident vasculaire cérébral.</narr>
+    <profile>Ce jeune homme a des problèmes cardiaques et il a subi un remplacement de la valve aortique qui se répète maintenant. Cette fois, il a des complications et il veut en savoir plus sur les accidents vasculaires cérébraux, l'un de ses diagnostics actuels.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.26</id>
+    <discharge_summary>15128-008249-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Saignement gastro-intestinal</title>
+    <desc>Qu'est-ce qui peut causer le saignement gastro-intestinal et est-il fréquent d'en souffrir plus qu'une fois ?</desc>
+    <narr>Le document doit contenir des informations sur le saignement gastro-intestinal, ses causes et ses conséquences.</narr>
+    <profile>L'épouse de cet homme d'âge moyen avec une longue histoire de consommation excessive d'alcool est curieuse de savoir s'il est fréquent que le saignement gastro-intestinal se répète.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.27</id>
+    <discharge_summary>15272-026154-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Remplacement de la valve aortique</title>
+    <desc>Qu'est-ce qu'un remplacement de la valve aortique ?</desc>
+    <narr>Le document doit contenir des informations sur le remplacement de la valve aortique.</narr>
+    <profile>Il s'agit du deuxième remplacement de la valve aortique de cette personne âgée et elle s'est décidée maintenant à en savoir plus sur sa maladie. Auparavant, elle a juste été passive mais maintenant, elle veut en savoir plus sur son état.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.28</id>
+    <discharge_summary>16013-015541-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Douleurs abdominales intermittentes</title>
+    <desc>Qu'est-ce qui peut causer la douleur abdominale ?</desc>
+    <narr>Le document doit contenir des informations sur les causes possibles de la douleur abdominale.</narr>
+    <profile>Les enfants de cette personne âgée veulent connaître les causes possibles de la douleur abdominale de leur mère qui réapparaît de temps en temps. Il n'y avait pas de diagnostic clair.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.29</id>
+    <discharge_summary>16044-019401-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Sténose aortique, état après un remplacement de la valve aortique et récupération</title>
+    <desc>Combien dure la convalescence après une opération de la valve aortique ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur la récupération physique et mentale après l'opération.</narr>
+    <profile>Il s'agit d'une patiente de 58 ans atteinte d'une sténose aortique qui a subi une opération pour traiter cela. Maintenant, elle est à la maison et elle veut en savoir plus sur sa convalescence.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.30</id>
+    <discharge_summary>16093-011230-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Trachéobronchomalacie</title>
+    <desc>Quelle est la gravité de la trachéobronchomalacie ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les conséquences de la trachéobronchomalacie.</narr>
+    <profile>Le patient est un homme de 74 ans qui souffre d'un toux chronique et sévère et chez lequel on a désormais diagnostiqué la trachéobronchomalacie. Ses enfants veulent savoir ce que cette maladie signifie pour leur père.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.31</id>
+    <discharge_summary>16597-023618-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Insuffisance rénale aiguë</title>
+    <desc>Une insuffisance rénale aiguë peut-elle causer la mort ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les causes et les conséquences de l'insuffisance rénale aiguë.</narr>
+    <profile>Le patient est un homme de 82 ans qui souffre d'insuffisance rénale aiguë incurable. Le patient est maintenant en soins palliatifs et ses parents veulent en savoir plus sur la maladie.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.32</id>
+    <discharge_summary>16888-003484-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Conseils pour un patient avec l'infarctus du myocarde aigu</title>
+    <desc>Quelles sont les causes de l'infarctus du myocarde et comment peuvent-elles être évitées ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations médicales pour les patients cardiaques qui les aident à prévenir l'infarctus.</narr>
+    <profile>La patiente est une femme de 48 ans à haut risque d'insuffisance cardiaque. Après le premier infarctus, elle veut savoir comment vivre de façon plus saine.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.33</id>
+    <discharge_summary>16994-022078-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Insuffisance respiratoire et insuffisance cardiaque congestive</title>
+    <desc>Quelle est la relation entre l'insuffisance respiratoire et l'insuffisance cardiaque congestive ? </desc>
+    <narr>Les documents pertinents doivent contenir des informations sur l'insuffisance respiratoire et l'insuffisance cardiaque congestive.</narr>
+    <profile>La patiente est une femme de 68 ans qui a souffert d'insuffisance cardiaque congestive pendant longtemps. Maintenant, elle a été hospitalisée à cause d'une insuffisance respiratoire et elle veut connaître le lien entre ces deux maladies.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.34</id>
+    <discharge_summary>17090-026395-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Saignement après l'opération de la hanche</title>
+    <desc>Qu'est-ce qui pourrait causer une lacération de l'artère fémorale après le remplacement de la hanche ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les complications circulatoires après un remplacement de la hanche.</narr>
+    <profile>Le patient est un homme de 65 ans qui a été réopéré en raison d'une hémorragie énorme. Il veut connaître les causes du saignement et savoir si le chirurgien a été négligent.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.35</id>
+    <discharge_summary>17217-011306-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Ulcère gastroduodénal</title>
+    <desc>Quel régime alimentaire est recommandé pour le diagnostic de l'ulcère gastro-duodénal ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur le régime alimentaire pour les patients atteints d'ulcère gastro-duodénal.</narr>
+    <profile>Le patient est un homme de 43 ans qui a les selles noirâtres. Il veut savoir quel régime aurait un effet positif sur son rétablissement.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.36</id>
+    <discharge_summary>17336-021181-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Convalescence après une fracture du bassin ouverte et une fracture de la branche supérieure droite</title>
+    <desc>Combien de temps dure la convalescence après une fracture du bassin ouverte du côté droit et une fracture de la branche supérieure droite ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur la convalescence après une fracture du bassin et une fracture de la branche.</narr>
+    <profile> Le patient est une femme de 18 ans qui a subi les fractures dans un accident de voiture. Elle veut savoir combien de temps elle devra attendre avant de pouvoir s'asseoir et marcher de nouveau.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.37</id>
+    <discharge_summary>17473-000673-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Causes de l'hémorragie gynécologique</title>
+    <desc>Quelles sont les causes de l'hémorragie gynécologique massive ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les causes de l'hémorragie gynécologique.</narr>
+    <profile>Il s'agit d'une femme enceinte de 43 ans atteinte d'une hémorragie gynécologique massive qui a dû subir une hystérectomie supracervicale et une ovariectomie à droite. Maintenant, elle veut connaître les causes de l'hémorragie.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.38</id>
+    <discharge_summary>18321-022756-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Causes du saignement de l'oesophage</title>
+    <desc>Quelles sont les causes du saignement de l'oesophage ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur le saignement de l'oesophage.</narr>
+    <profile>Le patient est une femme de 50 ans qui a vomi du sang de couleur rouge vif. Elle veut savoir pourquoi elle saignait.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.39</id>
+    <discharge_summary>19649-021294-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Taux de survie après un infarctus du myocarde secondaire</title>
+    <desc>Quelle est la probabilité de survivre au deuxième infarctus du myocarde ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur le taux de survie après un infarctus du myocarde.</narr>
+    <profile>Le patient est un homme de 54 ans avec des antécédents d'infarctus du myocarde. Maintenant, il veut savoir quelle chance il a eu en survivant au deuxième infarctus.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.40</id>
+    <discharge_summary>19709-026760-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Contusions pulmonaires bilatérales et ceinture de sécurité</title>
+    <desc>Qu'est qu'une contusion pulmonaire bilatérale et peut-on la prévenir dans un accident de voiture ?</desc>
+    <narr>Le document pertinent doit contenir des informations sur les blessures qui peuvent être évités en utilisant la ceinture de sécurité.</narr>
+    <profile>La patiente conduisait sans ceinture de sécurité dans un accident de voiture à grande vitesse et maintenant elle veut savoir si la ceinture de sécurité aurait pu prévenir ses blessures.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.41</id>
+    <discharge_summary>19791-003873-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Pseudokyste pancréatique et consommation de l'alcool</title>
+    <desc>Quelle est la relation entre le pseudokyste pancréatique et l'alcool ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les causes du pseudokyste pancréatique.</narr>
+    <profile>Cette dame de 55 ans a des antécédents de pancréatite chronique induite par l'alcool. Maintenant, ses enfants veulent savoir si la consommation d'alcool pourrait être la cause de son diagnostic.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.42</id>
+    <discharge_summary>20038-028322-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Foramen ovale</title>
+    <desc>Qu'est qu'un foramen ovale et quelles sont ses causes ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les causes et les symptômes du foramen ovale.</narr>
+    <profile>Cette femme de 40 ans a subi une opération à cause du foramen ovale et maintenant elle veut savoir ce que cela signifie et comment une personne peut en être atteinte.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.43</id>
+    <discharge_summary>21633-029484-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Maladie coronarienne et diabète insulinodépendant</title>
+    <desc>Le diabète insulinodépendant a-t-il une influence sur les maladies coronariennes ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur la relation entre le diabète insulinodépendant et la maladie coronarienne.</narr>
+    <profile>Il s'agit d'un homme de 61 ans qui veut savoir s'il y a un lien entre le diabète et les problèmes cardiaques.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.44</id>
+    <discharge_summary>21745-025001-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Comment puis-je éviter l'obstruction de l'intestin ?</title>
+    <desc>Quelles sont les causes de l'obstruction de l'intestin et comment peut—on prévenir cette maladie ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les causes de l'obstruction de l'intestin et donner des instructions sur les changements de style de vie qui contribuent à prévenir la maladie.</narr>
+    <profile>La fille de cette femme de 85 ans veut obtenir des informations sur la maladie de sa mère. Elle veut aussi savoir comment elle peut aider sa mère à prévenir la récidive de la maladie.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.45</id>
+    <discharge_summary>21833-003461-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Bactériémie à streptocoque du groupe A</title>
+    <desc>Qu'est-ce qu'une bactériémie à streptocoque du groupe A ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur la bactériémie à streptocoque du groupe A, ses causes et son traitement.</narr>
+    <profile>Le mari de cette femme de 37 ans veut en savoir plus sur la maladie de sa femme.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.46</id>
+    <discharge_summary>22739-020612-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Complications du diabète de type 1</title>
+    <desc>Quelles sont les complications du diabète de type 1 à long terme et à court terme ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les complications du diabète de type 1.</narr>
+    <profile>Il s'agit d'un homme de 30 ans qui vient de constater qu'il est atteint de diabète de type 1. Il a entendu parler des complications de la maladie et maintenant il veut en savoir plus.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.47</id>
+    <discharge_summary>22821-026994-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Traitement de l'hémorragie méningée</title>
+    <desc>Quel est le traitement en cas de l'hémorragie méningée ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur le traitement en cas de l'hémorragie méningée.</narr>
+    <profile>Ce patient de 36 ans ne se souvient pas comment il a été traité à l'hôpital. Maintenant, il veut en savoir plus sur les soins chez les patients souffrant d'une hémorragie méningée.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.48</id>
+    <discharge_summary>23590-017830-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Globules blancs et présence modérée de bactéries dans l'analyse d'urine</title>
+    <desc>Que signifie la présence de globules blancs et de bactéries modérée dans l'analyse d'urine ? </desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les infections des voies urinaires et leur traitement.</narr>
+    <profile>Cette patiente veut comprendre une phrase dans ses résultats de laboratoire. Elle veut savoir s'il est nécessaire de prendre les médicaments pour traiter la maladie. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.49</id>
+    <discharge_summary>24432-013472-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Leucémie lymphoïde chronique et hérédité</title>
+    <desc>Est-ce que la leucémie lymphoïde chronique est héréditaire ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur l'hérédité de la leucémie lymphoïde chronique.</narr>
+    <profile>Les enfants de cet homme de 80 ans qui souffrait de nombreuses maladies et qui vient de décéder veulent savoir si l'une des maladies, la leucémie lymphoïde chronique, est héréditaire.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.50</id>
+    <discharge_summary>00098-016139-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Anévrisme cérébral</title>
+    <desc>Qu'est-ce qu'un anévrisme cérébral ?</desc>
+    <narr>Les documents pertinents doivent contenir des informations sur les causes et le traitement de l'anévrisme cérébral.</narr>
+    <profile>Le mari de la patiente de 40 ans qui vient d'être transportée à l'hôpital avec un diagnostic d'anévrisme cérébral possible veut en savoir plus sur la maladie de sa femme.</profile>
+  </topic>
+</topics>

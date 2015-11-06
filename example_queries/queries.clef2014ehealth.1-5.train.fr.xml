@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+  <topic>
+    <id>QTRAIN2014.1</id>
+    <discharge_summary>08114-027513-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Le SARM et l´infection de la plaie</title>
+    <desc>Qu´est-ce que le SARM? Est-il dangereux?</desc>
+    <profile>Cette dame de 60 ans a  subi un pontage aorto-coronarien et pendant la convalescence sa plaie s´est infectée. Elle veut savoir si son infection est dangereuse, où elle l´a contractée et si elle peut s´infecter de nouveau.</profile>
+    <narr>Les documents devraient contenir des informations concernant l´infection de la plaie sternale par le SARM. Ils devraient décrire les causes et les complications.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.2</id>
+    <discharge_summary>22743-004908-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>L´infection du liquide cérébro-spinal et les médicaments</title>
+    <desc>Qu´est-ce que l´infection du liquide cérébro-spinal et quels sont les médicaments recommandés?</desc>
+    <profile>Un patient avec un cancer du sein métastatique et une infection du liquide cérébro-spinal. Cette dame de près de 60 ans a un cancer métastasique sévère. Elle a eu quelques complications et elle est très fatiguée. Elle a le soutien de la famille et elle et son mari veulent savoir plus sur sa dernière complication c'est-à-dire l´infection du shunt qui permet la chimiothérapie du système nerveux central.</profile>
+    <narr>Les documents devraient contenir les informations sur l´infection et son traitement.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.3</id>
+    <discharge_summary>07726-023607-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>L´insuffisance rénale terminale</title>
+    <desc>Est-il possible que les reins fonctionnent de nouveau?</desc>
+    <profile>Cette femme de 46 ans est atteinte de l´insuffisance rénale terminale et elle est déprimée. Elle ne voulait pas être en dialyse quotidienne et elle souffre des conséquences maintenant. Elle est toujours convaincue de la possibilité que ses reins puissent fonctionner de nouveau. Elle a un style de vie qui ne correspond pas à celui dont elle aurait besoin à ce stade de maladie. Elle veut savoir maintenant si elle guérira un jour.</profile>
+    <narr>Les documents devraient décrire l´insuffisance rénale terminale et son traitement.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.4</id>
+    <discharge_summary>20288-027184-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>La dissection aortique</title>
+    <desc>Qu´est-ce que la dissection aortique? Peut-elle se répéter? Et s´agit-il d´une maladie grave?</desc>
+    <profile>Cet homme de 80 ans a eu plusieurs problèmes de santé. On a découvert la dissection aortique chez lui et il a été opéré. La famille veut savoir plus sur la maladie et sa gravité.</profile>
+    <narr>Les documents devraient contenir des informations générales sur la dissection aortique et sa gravité. </narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.5</id>
+    <discharge_summary>07352-013977-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>La perforation de l'oesophage et les risques</title>
+    <desc>Qu´est-ce que la perforation de l'oesophage et peut-elle se répéter?</desc>
+    <profile>Cet homme de  près de 70 ans est atteint de sclérose en plaques avancée et il a plusieurs autres problèmes de santé. Auparavant, il a eu un polype de l'oesophage qui a été retiré. Après cette intervention, il a subi une perforation et on l´a hospitalisé. Son infirmière à domicile veut maintenant savoir quel est le risque d´une nouvelle perforation.</profile>
+    <narr>Les documents devraient contenir des informations générales sur la perforation de l'oesophage et les risques d´être atteint de nouveau.</narr>
+  </topic>
+</topics>
+

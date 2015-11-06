@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Share/CLEF eHealth 2013 TASK 3 Results by relevation - Information Retrieval Relevance Judging System</title>
+   <meta name="description" content="">
+    <meta name="author" content="CLEF 2013 Task 3 Committee">
+    <link rel="stylesheet" href="bootstrap.css">
+    <style type="text/css">
+        body { padding-top: 60px; font-size: 12px; }
+        label, button, .btn { font-size: 12px; }
+    </style>
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="./clef_eval_files/jquery.min.js"></script>
+    <script src="./clef_eval_files/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet">
+<style type="text/css">@media print { #feedlyMiniIcon { display: none; } }</style></head>
+
+<body style="zoom: 1;">
+<div class="container">
+<div class="well">
+        <h1>Share/CLEF eHealth 2013 TASK 3 Results - DEMIR_EN_Run</h1>
+        <p>This page summarises the results obtained from your submissions. Here, you can find the mean performance of your submissions, for all standard trec_eval measures and for nDCG at different ranks.</br> For this first year, the Share/CLEF eHealth 2013 TASK 3 built result pools from your submissions considering the top 10 documents ranked by your baseline system (run 1), and the highest priority run that used the discharge summaries (run 2) and the highest priority run that did not used the discharge summaries (run 5). As a consequence:<ul><li>the <b>primary measure for this year is precision at 10 (P@10)</b>,</li><li>the <b>secondary measure is Normalised Discounted Cumulative Gain at rank 10</b> (ndcg_cut_10).</li></ul>Per-query performance can be found in the <i>evals</i> folder in the directory containing this HTML page.</br>Some of the participant's runs contained formatting errors (the most common was the use of a numeric query id in place of the official qtestXX id); others did not retrieve results for some queries. To fairly evaluate the runs of every participant, submitted runs containing formatting errors have been corrected; an artificial document (fakeCLEF) has been added to the result rankings for queries where no result was retrieved. Your runs as have been evaluated are contained in the folder <i>runs</i>.</br>Please refer to the <a href="https://sites.google.com/site/shareclefehealth/">ShARe/CLEF 2013 eHealth Evaluation Lab website</a> for additional details on the task.</p>
+    </div>
+    <div class="row">
+        <div class="span9">
+            <h2>Evaluation with standard trec_eval metrics</h2>
+        <p>These results have been obtained with the binary relevance assessment, i.e. qrels.clef2014.test.bin.txt, and trec_eval 9.0 <a href="http://trec.nist.gov/trec_eval/">as distributed by NIST</a>. Trec_eval was ran as follows:</p>
+<pre>./trec_eval -c -M1000 qrels.clef2014.test.bin.txt runName</pre>
+ <h4>DEMIR_EN_Run.1.dat</h4>
+            <pre>
+runid                 	all	TFIDF
+num_q                 	all	50
+num_ret               	all	48063
+num_rel               	all	3209
+num_rel_ret           	all	2479
+map                   	all	0.3644
+gm_map                	all	0.3065
+Rprec                 	all	0.3895
+bpref                 	all	0.5154
+recip_rank            	all	0.8238
+iprec_at_recall_0.00  	all	0.8945
+iprec_at_recall_0.10  	all	0.7387
+iprec_at_recall_0.20  	all	0.6471
+iprec_at_recall_0.30  	all	0.5584
+iprec_at_recall_0.40  	all	0.4329
+iprec_at_recall_0.50  	all	0.3579
+iprec_at_recall_0.60  	all	0.2766
+iprec_at_recall_0.70  	all	0.1863
+iprec_at_recall_0.80  	all	0.1192
+iprec_at_recall_0.90  	all	0.0758
+iprec_at_recall_1.00  	all	0.0158
+P_5                   	all	0.6720
+P_10                  	all	0.6300
+P_15                  	all	0.5920
+P_20                  	all	0.5590
+P_30                  	all	0.5280
+P_100                 	all	0.3114
+P_200                 	all	0.1899
+P_500                 	all	0.0905
+P_1000                	all	0.0496
+</pre>
+ <h4>DEMIR_EN_Run.5.dat</h4>
+            <pre>
+runid                 	all	TFIDFKL
+num_q                 	all	50
+num_ret               	all	50000
+num_rel               	all	3209
+num_rel_ret           	all	2493
+map                   	all	0.3714
+gm_map                	all	0.3079
+Rprec                 	all	0.4002
+bpref                 	all	0.5490
+recip_rank            	all	0.8184
+iprec_at_recall_0.00  	all	0.8724
+iprec_at_recall_0.10  	all	0.7529
+iprec_at_recall_0.20  	all	0.6516
+iprec_at_recall_0.30  	all	0.5474
+iprec_at_recall_0.40  	all	0.4530
+iprec_at_recall_0.50  	all	0.3619
+iprec_at_recall_0.60  	all	0.2659
+iprec_at_recall_0.70  	all	0.2031
+iprec_at_recall_0.80  	all	0.1366
+iprec_at_recall_0.90  	all	0.0768
+iprec_at_recall_1.00  	all	0.0151
+P_5                   	all	0.7080
+P_10                  	all	0.6700
+P_15                  	all	0.6253
+P_20                  	all	0.5830
+P_30                  	all	0.5200
+P_100                 	all	0.3056
+P_200                 	all	0.1913
+P_500                 	all	0.0901
+P_1000                	all	0.0499
+</pre>
+ <h4>DEMIR_EN_Run.6.dat</h4>
+            <pre>
+runid                 	all	TFIDFAQE
+num_q                 	all	50
+num_ret               	all	50000
+num_rel               	all	3209
+num_rel_ret           	all	2281
+map                   	all	0.3049
+gm_map                	all	0.2470
+Rprec                 	all	0.3378
+bpref                 	all	0.5199
+recip_rank            	all	0.7738
+iprec_at_recall_0.00  	all	0.8633
+iprec_at_recall_0.10  	all	0.7392
+iprec_at_recall_0.20  	all	0.5740
+iprec_at_recall_0.30  	all	0.4705
+iprec_at_recall_0.40  	all	0.3711
+iprec_at_recall_0.50  	all	0.2557
+iprec_at_recall_0.60  	all	0.1743
+iprec_at_recall_0.70  	all	0.1113
+iprec_at_recall_0.80  	all	0.0586
+iprec_at_recall_0.90  	all	0.0316
+iprec_at_recall_1.00  	all	0.0033
+P_5                   	all	0.6840
+P_10                  	all	0.6740
+P_15                  	all	0.6093
+P_20                  	all	0.5370
+P_30                  	all	0.4687
+P_100                 	all	0.2606
+P_200                 	all	0.1585
+P_500                 	all	0.0798
+P_1000                	all	0.0456
+</pre>
+
+<h2>Evaluation with nDCG</h2>
+        <p>These results have been obtained with the graded relevance assessment, i.e. qrels.clef2014.test.graded.txt, and trec_eval 9.0 <a href="http://trec.nist.gov/trec_eval/">as distributed by NIST</a>.</br>To obtain nDCG at different ranks, trec_eval was ran as follows:</p>
+<pre>./trec_eval -c -M1000 -m ndcg_cut qrels.clef2014.test.graded.txt runName</pre>
+ <h4>DEMIR_EN_Run.1.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.6536
+ndcg_cut_10           	all	0.6321
+ndcg_cut_15           	all	0.6101
+ndcg_cut_20           	all	0.5929
+ndcg_cut_30           	all	0.5793
+ndcg_cut_100          	all	0.5366
+ndcg_cut_200          	all	0.5910
+ndcg_cut_500          	all	0.6421
+ndcg_cut_1000         	all	0.6671
+</pre>
+ <h4>DEMIR_EN_Run.5.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.6960
+ndcg_cut_10           	all	0.6719
+ndcg_cut_15           	all	0.6470
+ndcg_cut_20           	all	0.6207
+ndcg_cut_30           	all	0.5837
+ndcg_cut_100          	all	0.5417
+ndcg_cut_200          	all	0.6006
+ndcg_cut_500          	all	0.6492
+ndcg_cut_1000         	all	0.6773
+</pre>
+ <h4>DEMIR_EN_Run.6.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.6557
+ndcg_cut_10           	all	0.6518
+ndcg_cut_15           	all	0.6187
+ndcg_cut_20           	all	0.5760
+ndcg_cut_30           	all	0.5325
+ndcg_cut_100          	all	0.4692
+ndcg_cut_200          	all	0.5150
+ndcg_cut_500          	all	0.5785
+ndcg_cut_1000         	all	0.6143
+</pre>
+
+<h2>Plots P@10</h2>
+<p>The plots below compare each of your runs against the median and best performance (p@10) across all systems  submitted to CLEF for each query topic. In particular, for each query, the height of a bar represents the gain/loss of your system and the best system (for that query) over the median system. The height of a bar in then given by:</p>
+<pre>grey bars:   height(q) = your_p@10(q) - median_p@10(q)
+white bars:  height(q) = best_p@10(q) - median_p@10(q)</pre>
+
+ <h4>DEMIR_EN_Run.1.dat</h4>
+<img src="./img/DEMIR_EN_Run.1.dat.p10.png"/>
+ <h4>DEMIR_EN_Run.5.dat</h4>
+<img src="./img/DEMIR_EN_Run.5.dat.p10.png"/>
+ <h4>DEMIR_EN_Run.6.dat</h4>
+<img src="./img/DEMIR_EN_Run.6.dat.p10.png"/>
+      </div>
+    </div>
+
+    <p></p><hr><p></p>
+    <footer class="row">
+        <div class="span6">
+           <p><a href="https://github.com/bevankoopman/relevation">relevation</a> - Information Retrieval Relevance Judging System</p>
+      </div>
+    </footer>
+</div> <!-- container -->
+</body></html>

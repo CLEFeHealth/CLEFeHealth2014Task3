@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Share/CLEF eHealth 2013 TASK 3 Results by relevation - Information Retrieval Relevance Judging System</title>
+   <meta name="description" content="">
+    <meta name="author" content="CLEF 2013 Task 3 Committee">
+    <link rel="stylesheet" href="bootstrap.css">
+    <style type="text/css">
+        body { padding-top: 60px; font-size: 12px; }
+        label, button, .btn { font-size: 12px; }
+    </style>
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="./clef_eval_files/jquery.min.js"></script>
+    <script src="./clef_eval_files/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet">
+<style type="text/css">@media print { #feedlyMiniIcon { display: none; } }</style></head>
+
+<body style="zoom: 1;">
+<div class="container">
+<div class="well">
+        <h1>Share/CLEF eHealth 2013 TASK 3 Results - SNUMEDINFO_EN_Run</h1>
+        <p>This page summarises the results obtained from your submissions. Here, you can find the mean performance of your submissions, for all standard trec_eval measures and for nDCG at different ranks.</br> For this first year, the Share/CLEF eHealth 2013 TASK 3 built result pools from your submissions considering the top 10 documents ranked by your baseline system (run 1), and the highest priority run that used the discharge summaries (run 2) and the highest priority run that did not used the discharge summaries (run 5). As a consequence:<ul><li>the <b>primary measure for this year is precision at 10 (P@10)</b>,</li><li>the <b>secondary measure is Normalised Discounted Cumulative Gain at rank 10</b> (ndcg_cut_10).</li></ul>Per-query performance can be found in the <i>evals</i> folder in the directory containing this HTML page.</br>Some of the participant's runs contained formatting errors (the most common was the use of a numeric query id in place of the official qtestXX id); others did not retrieve results for some queries. To fairly evaluate the runs of every participant, submitted runs containing formatting errors have been corrected; an artificial document (fakeCLEF) has been added to the result rankings for queries where no result was retrieved. Your runs as have been evaluated are contained in the folder <i>runs</i>.</br>Please refer to the <a href="https://sites.google.com/site/shareclefehealth/">ShARe/CLEF 2013 eHealth Evaluation Lab website</a> for additional details on the task.</p>
+    </div>
+    <div class="row">
+        <div class="span9">
+            <h2>Evaluation with standard trec_eval metrics</h2>
+        <p>These results have been obtained with the binary relevance assessment, i.e. qrels.clef2014.test.bin.txt, and trec_eval 9.0 <a href="http://trec.nist.gov/trec_eval/">as distributed by NIST</a>. Trec_eval was ran as follows:</p>
+<pre>./trec_eval -c -M1000 qrels.clef2014.test.bin.txt runName</pre>
+ <h4>SNUMEDINFO_EN_Run.1.dat</h4>
+            <pre>
+runid                 	all	SNUMEDINFO1
+num_q                 	all	50
+num_ret               	all	49051
+num_rel               	all	3209
+num_rel_ret           	all	2305
+map                   	all	0.3703
+gm_map                	all	0.3157
+Rprec                 	all	0.3963
+bpref                 	all	0.5244
+recip_rank            	all	0.8667
+iprec_at_recall_0.00  	all	0.9299
+iprec_at_recall_0.10  	all	0.8312
+iprec_at_recall_0.20  	all	0.7178
+iprec_at_recall_0.30  	all	0.5709
+iprec_at_recall_0.40  	all	0.4366
+iprec_at_recall_0.50  	all	0.3288
+iprec_at_recall_0.60  	all	0.2289
+iprec_at_recall_0.70  	all	0.1363
+iprec_at_recall_0.80  	all	0.0902
+iprec_at_recall_0.90  	all	0.0428
+iprec_at_recall_1.00  	all	0.0101
+P_5                   	all	0.7720
+P_10                  	all	0.7380
+P_15                  	all	0.7013
+P_20                  	all	0.6450
+P_30                  	all	0.5547
+P_100                 	all	0.2872
+P_200                 	all	0.1735
+P_500                 	all	0.0838
+P_1000                	all	0.0461
+</pre>
+ <h4>SNUMEDINFO_EN_Run.2.dat</h4>
+            <pre>
+runid                 	all	SNUMEDINFO2
+num_q                 	all	50
+num_ret               	all	49051
+num_rel               	all	3209
+num_rel_ret           	all	2307
+map                   	all	0.3753
+gm_map                	all	0.3228
+Rprec                 	all	0.4004
+bpref                 	all	0.5264
+recip_rank            	all	0.8948
+iprec_at_recall_0.00  	all	0.9379
+iprec_at_recall_0.10  	all	0.8526
+iprec_at_recall_0.20  	all	0.7255
+iprec_at_recall_0.30  	all	0.5751
+iprec_at_recall_0.40  	all	0.4352
+iprec_at_recall_0.50  	all	0.3301
+iprec_at_recall_0.60  	all	0.2278
+iprec_at_recall_0.70  	all	0.1368
+iprec_at_recall_0.80  	all	0.0899
+iprec_at_recall_0.90  	all	0.0429
+iprec_at_recall_1.00  	all	0.0107
+P_5                   	all	0.7840
+P_10                  	all	0.7540
+P_15                  	all	0.7147
+P_20                  	all	0.6510
+P_30                  	all	0.5680
+P_100                 	all	0.2900
+P_200                 	all	0.1749
+P_500                 	all	0.0842
+P_1000                	all	0.0461
+</pre>
+ <h4>SNUMEDINFO_EN_Run.3.dat</h4>
+            <pre>
+runid                 	all	SNUMEDINFO3
+num_q                 	all	50
+num_ret               	all	50000
+num_rel               	all	3209
+num_rel_ret           	all	2351
+map                   	all	0.3671
+gm_map                	all	0.3169
+Rprec                 	all	0.4011
+bpref                 	all	0.5332
+recip_rank            	all	0.8629
+iprec_at_recall_0.00  	all	0.9060
+iprec_at_recall_0.10  	all	0.7780
+iprec_at_recall_0.20  	all	0.6842
+iprec_at_recall_0.30  	all	0.5623
+iprec_at_recall_0.40  	all	0.4623
+iprec_at_recall_0.50  	all	0.3504
+iprec_at_recall_0.60  	all	0.2484
+iprec_at_recall_0.70  	all	0.1660
+iprec_at_recall_0.80  	all	0.0993
+iprec_at_recall_0.90  	all	0.0339
+iprec_at_recall_1.00  	all	0.0150
+P_5                   	all	0.7320
+P_10                  	all	0.6940
+P_15                  	all	0.6680
+P_20                  	all	0.6250
+P_30                  	all	0.5593
+P_100                 	all	0.2948
+P_200                 	all	0.1803
+P_500                 	all	0.0857
+P_1000                	all	0.0470
+</pre>
+ <h4>SNUMEDINFO_EN_Run.5.dat</h4>
+            <pre>
+runid                 	all	SNUMEDINFO5
+num_q                 	all	50
+num_ret               	all	49051
+num_rel               	all	3209
+num_rel_ret           	all	2305
+map                   	all	0.3814
+gm_map                	all	0.3316
+Rprec                 	all	0.4166
+bpref                 	all	0.5215
+recip_rank            	all	0.8907
+iprec_at_recall_0.00  	all	0.9266
+iprec_at_recall_0.10  	all	0.8337
+iprec_at_recall_0.20  	all	0.7042
+iprec_at_recall_0.30  	all	0.5637
+iprec_at_recall_0.40  	all	0.4468
+iprec_at_recall_0.50  	all	0.3582
+iprec_at_recall_0.60  	all	0.2441
+iprec_at_recall_0.70  	all	0.1595
+iprec_at_recall_0.80  	all	0.1039
+iprec_at_recall_0.90  	all	0.0432
+iprec_at_recall_1.00  	all	0.0091
+P_5                   	all	0.8160
+P_10                  	all	0.7520
+P_15                  	all	0.6960
+P_20                  	all	0.6400
+P_30                  	all	0.5600
+P_100                 	all	0.3060
+P_200                 	all	0.1860
+P_500                 	all	0.0864
+P_1000                	all	0.0461
+</pre>
+ <h4>SNUMEDINFO_EN_Run.6.dat</h4>
+            <pre>
+runid                 	all	SNUMEDINFO6
+num_q                 	all	50
+num_ret               	all	49051
+num_rel               	all	3209
+num_rel_ret           	all	2305
+map                   	all	0.3655
+gm_map                	all	0.3135
+Rprec                 	all	0.4006
+bpref                 	all	0.5208
+recip_rank            	all	0.8333
+iprec_at_recall_0.00  	all	0.9043
+iprec_at_recall_0.10  	all	0.8054
+iprec_at_recall_0.20  	all	0.6940
+iprec_at_recall_0.30  	all	0.5707
+iprec_at_recall_0.40  	all	0.4399
+iprec_at_recall_0.50  	all	0.3404
+iprec_at_recall_0.60  	all	0.2308
+iprec_at_recall_0.70  	all	0.1507
+iprec_at_recall_0.80  	all	0.0933
+iprec_at_recall_0.90  	all	0.0440
+iprec_at_recall_1.00  	all	0.0076
+P_5                   	all	0.7840
+P_10                  	all	0.7420
+P_15                  	all	0.6920
+P_20                  	all	0.6390
+P_30                  	all	0.5500
+P_100                 	all	0.2960
+P_200                 	all	0.1819
+P_500                 	all	0.0857
+P_1000                	all	0.0461
+</pre>
+
+<h2>Evaluation with nDCG</h2>
+        <p>These results have been obtained with the graded relevance assessment, i.e. qrels.clef2014.test.graded.txt, and trec_eval 9.0 <a href="http://trec.nist.gov/trec_eval/">as distributed by NIST</a>.</br>To obtain nDCG at different ranks, trec_eval was ran as follows:</p>
+<pre>./trec_eval -c -M1000 -m ndcg_cut qrels.clef2014.test.graded.txt runName</pre>
+ <h4>SNUMEDINFO_EN_Run.1.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7337
+ndcg_cut_10           	all	0.7238
+ndcg_cut_15           	all	0.7063
+ndcg_cut_20           	all	0.6736
+ndcg_cut_30           	all	0.6199
+ndcg_cut_100          	all	0.5294
+ndcg_cut_200          	all	0.5736
+ndcg_cut_500          	all	0.6239
+ndcg_cut_1000         	all	0.6499
+</pre>
+ <h4>SNUMEDINFO_EN_Run.2.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7502
+ndcg_cut_10           	all	0.7406
+ndcg_cut_15           	all	0.7207
+ndcg_cut_20           	all	0.6837
+ndcg_cut_30           	all	0.6335
+ndcg_cut_100          	all	0.5353
+ndcg_cut_200          	all	0.5793
+ndcg_cut_500          	all	0.6287
+ndcg_cut_1000         	all	0.6544
+</pre>
+ <h4>SNUMEDINFO_EN_Run.3.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7166
+ndcg_cut_10           	all	0.6896
+ndcg_cut_15           	all	0.6741
+ndcg_cut_20           	all	0.6527
+ndcg_cut_30           	all	0.6171
+ndcg_cut_100          	all	0.5325
+ndcg_cut_200          	all	0.5786
+ndcg_cut_500          	all	0.6268
+ndcg_cut_1000         	all	0.6526
+</pre>
+ <h4>SNUMEDINFO_EN_Run.5.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7749
+ndcg_cut_10           	all	0.7426
+ndcg_cut_15           	all	0.7120
+ndcg_cut_20           	all	0.6784
+ndcg_cut_30           	all	0.6299
+ndcg_cut_100          	all	0.5524
+ndcg_cut_200          	all	0.6010
+ndcg_cut_500          	all	0.6423
+ndcg_cut_1000         	all	0.6592
+</pre>
+ <h4>SNUMEDINFO_EN_Run.6.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.7417
+ndcg_cut_10           	all	0.7223
+ndcg_cut_15           	all	0.6970
+ndcg_cut_20           	all	0.6661
+ndcg_cut_30           	all	0.6121
+ndcg_cut_100          	all	0.5318
+ndcg_cut_200          	all	0.5812
+ndcg_cut_500          	all	0.6277
+ndcg_cut_1000         	all	0.6464
+</pre>
+
+<h2>Plots P@10</h2>
+<p>The plots below compare each of your runs against the median and best performance (p@10) across all systems  submitted to CLEF for each query topic. In particular, for each query, the height of a bar represents the gain/loss of your system and the best system (for that query) over the median system. The height of a bar in then given by:</p>
+<pre>grey bars:   height(q) = your_p@10(q) - median_p@10(q)
+white bars:  height(q) = best_p@10(q) - median_p@10(q)</pre>
+
+ <h4>SNUMEDINFO_EN_Run.1.dat</h4>
+<img src="./img/SNUMEDINFO_EN_Run.1.dat.p10.png"/>
+ <h4>SNUMEDINFO_EN_Run.2.dat</h4>
+<img src="./img/SNUMEDINFO_EN_Run.2.dat.p10.png"/>
+ <h4>SNUMEDINFO_EN_Run.3.dat</h4>
+<img src="./img/SNUMEDINFO_EN_Run.3.dat.p10.png"/>
+ <h4>SNUMEDINFO_EN_Run.5.dat</h4>
+<img src="./img/SNUMEDINFO_EN_Run.5.dat.p10.png"/>
+ <h4>SNUMEDINFO_EN_Run.6.dat</h4>
+<img src="./img/SNUMEDINFO_EN_Run.6.dat.p10.png"/>
+      </div>
+    </div>
+
+    <p></p><hr><p></p>
+    <footer class="row">
+        <div class="span6">
+           <p><a href="https://github.com/bevankoopman/relevation">relevation</a> - Information Retrieval Relevance Judging System</p>
+      </div>
+    </footer>
+</div> <!-- container -->
+</body></html>

@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+<topic>
+	<id>qtest2014.1</id>
+	<discharge_summary>00211-027889-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Koronare Herzkrankheit.</title>
+	<desc>Was bedeutet koronare Herzkrankheit?</desc>
+	<narr>Die Dokumente sollten Grundinformationen über koronare Herzkrankheit und ihre Behandlung enthalten.</narr>
+	<profile>Diese 83-jährige, positive Frau hat seit einiger Zeit Herzprobleme mit zunehmender Atemnot. Nachdem sie den Arzt besucht hatte, wurde die Diagnose gestellt.
+Sie und ihre Tochter suchen im Internet Informationen über die Erkrankung, über die sie kein Wissen haben.</profile>
+</topic>
+<topic>
+	<id>qtest2014.2</id>
+	<discharge_summary>01234-029456-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Sepsis</title>
+	<desc>Könnte Sepsis die Todesursache sein?</desc>
+	<narr>Das Dokument sollte Informationen über Sepsis im Allgemeinen und ihre möglichen Folgen enthalten.</narr>
+	<profile>Die Patientin war eine 83-jährige Frau, die nach einer Sepsis gestorben ist. Ihre Tochter möchte wissen, ob die Sepsis die mögliche Todesursache sein könnte. Sie weisst nicht, was Sepsis bedeutet.</profile>
+</topic>
+<topic>
+	<id>qtest2014.3</id>
+	<discharge_summary>01314-028800-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>L Hämatopneumothorax</title>
+	<desc>Welche Spätkomplikationen können bei Hämatopneumothorax auftreten?</desc>
+	<narr>Das Dokument sollte Informationen über Spätkomplikationen des Hämatopneumothoraxes enthalten.</narr>
+	<profile>Der 70-jährige Mann ist Auto gefahren ohne den Sicherheitsgurt zu benutzen,  und hatte einen Autounfall. Er hatmehrere Brüche am Brustkorb und anderenorts erlitten. Seine Verwandten möchten wissen, wie sie ihn zu Hause betreuen sollten. Ihnen wird empfohlen regelmässig zu kontrollieren, ob er Brustschmerzen, Kurzatmigkeit, schwere Übelkeit und Erbrechen, hohes Fieber oder Schwächezustände hat. Sie möchten wissen, warum.</profile>
+</topic>
+<topic>
+	<id>qtest2014.4</id>
+	<discharge_summary>02115-010823-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Anoxische Hirnschädigung</title>
+	<desc>Kann man bei einer schweren Hirnschädigung Schmerzen wahrnehmen?</desc>
+	<narr>Das Dokument sollte Informationen über Hirnschädigung und Schmerz enthalten.</narr>
+	<profile>Die Tochter der 87-jährigen, nun verstorbenen Frau möchte wissen, ob es möglich ist, dass ihre Mutter  unerkannt Schmerzen hatte, die durch die schwere Hirnschädigung in ihren letzten Tagen verursacht wurden.</profile>
+</topic>
+<topic>
+	<id>qtest2014.5</id>
+	<discharge_summary>02136-017465-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Obere gastrointestinale Blutung</title>
+	<desc>Welche möglichen Ursachen hat eine gastrointestinale Blutung?</desc>
+<narr>Das Dokument sollte Informationen über die Ursachen der gastrointestinalen Blutung enthalten.</narr>
+	<profile>Der Patient ist mit den meisten seiner Erkankungen vertraut, aber er möchte nun wissen, was seine gastrointestinale Blutung verursachen konnte. Er hat eine eindeutige Antwort weder vom Arzt bekommen, noch hat er sie in seinem Entlassungsbrief gefunden.</profile>
+</topic>
+<topic>
+	<id>qtest2014.6</id>
+	<discharge_summary>02410-026171-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Aortenstenose</title>
+	<desc>Was ist eine Aortenstenose und wie wird sie behandelt?</desc>
+	<narr>Das Dokument sollte Informationen über die Aortenstenose und ihre Behandlungsmöglichkeiten enthalten.</narr>
+	<profile>Der 71- jährige Mann hatte bereits eine Aortenstenose und ist mit dieser Erkrankung vertraut. Aber weil es schon eine Weile seit seiner vorherigen Operation her ist, möchte er sein Wissen über die Krankheit und ihre Behandlung aktualisieren.</profile>
+</topic>
+<topic>
+	<id>qtest2014.7</id>
+	<discharge_summary>02652-006395-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Abszess, der duch Gallensteinverlust verursacht ist, rechte Flanke</title>
+	<desc>Wie kann man zu einem Abszess durch Gallensteinverlust kommen und ist er häufig?</desc>
+	<narr>Dieses Dokument sollte Informationen über verloren gegangene Gallensteine und ihre Abszesse enthalten, wie häufig sie auftreten und was sie verursacht.</narr>
+	<profile>Der Patient ist ein relativ gesunder älterer Mann. Er will mehr über Gallensteine wissen und vor allem, wie sie zu Abszessen führen können und sie verloren gehen können.</profile>
+</topic>
+<topic>
+	<id>qtest2014.8</id>
+	<discharge_summary>03273-009330-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Alkoholentzugsanfälle</title>
+	<desc>Wie gefährlich sind Alkoholentzugsanfälle?</desc>
+	<narr>Das Dokument sollte Informationen über Alkoholentzugsanfälle und ihre Folgen enthalten.</narr>	
+	<profile>Der 47-jährige Mann hat lange Zeit Alkohol und andere Drogen missbräuchlich konsumiert. Seine Schwester möchte ihren Eltern  das Problem der Alkoholentzugsanfälle und ihrer Folgen erklären.</profile>
+</topic>
+<topic>
+	<id>qtest2014.9</id>
+	<discharge_summary>04269-027967-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title> Lungenentzündung im rechten Oberlappen, mit einer Kaverne</title>
+	<desc>Was bedeutet eine Kaverne  in Zusammenhang mit einer Lungenentzündung des Oberlappens?</desc>
+	<narr>Das Dokument sollte Informationen über die Lungenentzündung des Oberlappens und  Kavernen enthalten.</narr>
+	<profile>Der 39- jährige Mann war zuvor meist gesund, aber jetzt nach einer Aspiration entwickelte sich bei ihm eine Lungenentzündung. Er möchte mehr darüber wissen, weil er sich müde und  unwohl fühlt.</profile>
+</topic>
+<topic>
+	<id>qtest2014.10</id>
+	<discharge_summary>04303-005081-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Schädel- Hirn-Trauma, Zustand nach Sturz</title>
+	<desc>Welche mögliche Folgen einer Hirnverletzung können auftreten?</desc>
+	<narr>Das Dokument sollte Informationen über Hirnverletzungen und ihre möglichen Folgen enthalten.</narr>
+	<profile>Der Patient hat eine Hirnverletzung nach einem Sturz erlitten. Er und seine Kinder möchten wissen, worauf sie jetzt achten sollten, da der Patient aus dem Krankenhaus entlassen wird und es noch die Gefahr einer Blutung gibt.</profile>
+</topic>
+<topic>
+	<id>qtest2014.11</id>
+	<discharge_summary>07429-001857-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Aspirationspneumonie, die durch Fehlplatzierung einer Dobhoff Sonde verursacht ist</title>
+	<desc>Was ist eine Dobhoff Sonde und warum hat sie eine Pneumonie verursacht?</desc>
+	<narr>Das Dokument sollte Informationen über die Dobhoff Sonde und die Folgen einer  Fehlplatzierung enthalten.</narr>
+	<profile>Die ältere Dame hatte einen schlimmen Autounfall. Sie benötigte eine Ernährungssonde. Die Sonde wurde versehentlich in ihre Lunge statt in den Magen gelegt. Das hat eine Pneumonie verursacht. Die Famillie möchte wissen, ob das ein häufiges Problem oder eher ein seltener Umstand ist.</profile>
+</topic>
+<topic>
+	<id>qtest2014.12</id>
+	<discharge_summary>07514-025655-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Hepatische Enzephalopathie </title>
+	<desc>Was ist eine hepatische Enzephalopathie und warum verusacht sie Verwirrtheit?</desc>	<narr>Das Dokument sollte Informationen über die hepatische Enzephalopathie und ihre Folgen enthalten.</narr>
+	<profile>Der Patient hat eine Hepatgitis C durchgemacht und leidet nun an einer hepatischen Enzephalopathie. Der Patient und seine Frau möchten mehr über dieses beängstigende Problem wissen und wie gefährlich es wirklich ist.</profile>
+</topic>
+<topic>
+	<id>qtest2014.13</id>
+	<discharge_summary>08703-021487-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Zustand nach „narrow field“ Laryngektomie</title>
+	<desc>Was ist „narrow field“ Laryngektomie?</desc>
+	<narr>Das Dokument sollte Informationen über die „narrow field“ Laryngektomie enthalten. </narr>
+	<profile>Der junge Mann mit Down-Syndrom hatte seit langer Zeit eine chronische Aspiration und wurde jetzt am Kehlkopf operiert. Seine Familie möchte mehr über den Eingriff, der durchgeführt wurde, wissen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.14</id>
+	<discharge_summary>09337-018472-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Herzinfarkt</title>
+	<desc>Was ist ein Herzinfarkt?</desc>
+	<narr>Das Dokument sollte Informationen über den Herzinfarkt enthalten.</narr>
+	<profile>Diese ältere Dame erlitt ihren ersten Herzinfarkt, und sie und ihre Familie möchten mehr über diese Erkrankung wissen, denn niemand in ihrer engeren Verwandtschaft hatte Herzerkrankungen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.15</id>
+	<discharge_summary>10101-012638-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Nicht-kleinzelliger Lungenkrebs</title>
+	<desc>Ist Lungenkrebs erblich? </desc>
+	<narr>Das Dokument sollte Informationen über verschiedene Arten des Lungenkrebs enthalten und wie wahrscheinlich es ist, dass er familiär auftritt.</narr>
+	<profile>Der 74-jährige Mann ist an Lungenkrebs gestorben, und seine Kinder möchten wissen, ob es wahrscheinlich ist, dass auch sie Lungenkrebs bekommen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.16</id>
+	<discharge_summary>10644-007491-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Schlaganfall und Lungenversagen</title>
+	<desc>Sind Schlaganfall und Lungenversagen miteinander verbunden?</desc>
+	<narr>Das Dokument sollte Informationen über den Schlaganfall und das Lungenversagen enthalten.</narr>
+	<profile>Der 78-jährige Priester hat sich von einem Schlaganfall erholt und möchte jetzt wissen, ob und wie seine zwei Diagnosen, Schlaganfall und Lungenversagen, miteinander verbunden sind.</profile>
+</topic>
+<topic>
+	<id>qtest2014.17</id>
+	<discharge_summary>11439-014138-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Chronisches  Zwölffingerdarmgeschwür </title>
+	<desc>Wie häufig beginnt das Geschwür wieder zu bluten?</desc>
+	<narr>Das Dokument sollte Informationen über das chronische Zwölffingerdarmgeschwür enthalten.</narr>
+	<profile> Der Mann mittleren Alters, der zuvor gesund war, hatte mehrere Tage lang blutigen Stuhl, und es wurde ein chronisches Zwölffingerdarmgeschwür festgestellt. Er und seine Frau möchten mehr über diese Erkrankung wissen, weil sein Vater an einer gastrointestinalen Blutung gestorben ist.</profile>
+</topic>
+<topic>
+	<id>qtest2014.18</id>
+	<discharge_summary>11762-027273-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Schwindel und Hypotonie</title>
+	<desc>Wie kann man Schwindel und Hypotonie verhindern?</desc>
+	<narr>Das Dokument sollte Informationen über Schwindel und Hypotonie enthalten.</narr>
+	<profile>Diese 63-jährige Dame lebt wegen ihrer mentalen Erkrankung in einer Wohngemeinschaft. Sie wurde ohnmächtig und musste ein Krankenhaus aufsuchen. Jetzt ist sie zürück zu Hause, und ihre Betreuungspersonen möchten wissen, wie sie einen weiteren Ohnmachtsanfall am besten verhindern können.</profile>
+</topic>
+<topic>
+	<id>qtest2014.19</id>
+	<discharge_summary>11823-007872-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Aneurysma der Arteria carotis communis links</title>
+	<desc>Was ist ein Aneurysma der Arteria carotis communis?</desc>
+	<narr>Das Dokument sollte Informationen über das Aneurysma der Arteria carotis communis sinistra enthalten.</narr>
+	<profile>Der junge Mann hatte Krampfanfälle, und Untersuchungen zeigten ein Aneurysma der Arteria carotis communis sinistra. Er und seine Familie möchten mehr über diese Erkrankung wissen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.20</id>
+	<discharge_summary>12748-021750-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Subdurales Hämatom</title>
+	<desc>Was ist ein subdurales Hämatom und kann man sich davon erholen?</desc>
+	<narr>Das Dokument sollte Informationen über das subdurale Hämatom und seine Folgen enthalten, und ob es möglich ist, sich davon zu erholen.</narr>
+	<profile>Die Eltern der Dame möchten mehr über das subdurale Hämatom, die Erkankung ihrer Tochter, wissen. Sie möchten auch wissen, ob ihre Tochter wieder jemalsgesund wird.</profile>
+</topic>
+<topic>
+	<id>qtest2014.21</id>
+	<discharge_summary>13033-020154-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Nierenversagen</title>
+	<desc>Wie gefährlich ist das Nierenversagen und kann es  erneut auftreten?</desc>
+	<narr>Das Dokument sollte Informationen über das Nierenversagen, seine Ursachen und Folgen enthalten.</narr>,
+	<profile>Der Patient hatte bereits Diabetes mellitus, Bluthochdruck und eine Gastroparese. Jetzt funktionieren seine Nieren nicht richtig, und er möchte mehr über das Nierenversagen wissen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.22</id>
+	<discharge_summary>14708-006815-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Selbstmordgedanken</title>
+	<desc>Treten Selbstmordgedanken häufig erneut auf?</desc>
+	<narr>Das Dokument sollte Informationen über Selbstmordgedanken enthalten.</narr>
+	<profile>Die Eltern des 40-jährigen Mannes möchten wissen, ob es wahrscheinlich ist, dass ihr Sohn, der eine schizoaffektive Störung hat, den Selbstmordversuch wiederholt.</profile>
+</topic>
+<topic>
+	<id>qtest2014.23</id>
+	<discharge_summary>14822-000161-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Koronararterien–Bypass </title>
+	<desc>Wie wirksam zur Heilung der Krankheit ist der Koronararterien–Bypass?</desc>
+	<narr>Das Dokument sollte Informationen über den Koronararterien–Bypass und seine Wirksamkeit enthalten.</narr>
+	<profile>Die ältere Dame hat früher eine Koronararterien–Bypass-Operation abgelehnt, aber jetzt hat sie sich doch dazu entschieden. Sie und ihre Kinder möchten nun mehr über dieOperation und ihre Wirksamkeit wissen.</profile>
+</topic> 
+<topic>
+	<id>qtest2014.24</id>
+	<discharge_summary>http://computing.dcu.ie/~lgoeuriot/clefehealth-queries/08951-002958-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Diabetes Typ 1 und Herzprobleme</title>
+	<desc>Wie beeinflußt der Diabetes Typ 1 die Herzfunktion?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über den Diabetes Typ 1 und seinen Zusammenhang mit Kreislaufproblemen, insbesondere der Herzkranzgefäße, enthalten.</narr>
+	<profile>Der Patient ist ein 71-jähriger Mann, der in der Anamnese eine Koronararterien-Bypass Operation an vier Gefäßen und einen Diabetes hat. Er hat erneut Herzprobleme und macht sich Sorgen, wie die zwei Krankheiten zusammen sein Leben verschlechtern werden.</profile>
+</topic>
+<topic>
+	<id>qtest2014.25</id>
+	<discharge_summary>14897-025566-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Schlaganfall</title>
+	<desc>Was ist ein Schlaganfall?</desc>
+	<narr>Das Dokument sollte Grundinformationen über den Schlaganfall enthalten.</narr>
+	<profile>Der junge Mann hatte Herzprobleme und bekam einen Aortenklappenersatz, der nun wiederholt wurde. Er hatte diesmal einige Komplikationen und möchte mehr über den Schlaganfall wissen, der diesmal eine der Diagnosen war. </profile>
+</topic>
+<topic>
+	<id>qtest2014.26</id>
+	<discharge_summary>15128-008249-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Gastrointestinale Blutung</title>
+	<desc>Was kann eine gastrointestinale Blutung verursachen und tritt sie häufigwiederholt auf?</desc>
+	<narr>Das Dokument sollte Informationen über gastrointestinale Blutungen, ihre Ursachen und Folgen enthalten.</narr>
+	<profile>Die Frau des Mannes in mittlerem Alter, der lange Zeit viel Alkohol trank, möchte wissen, wie häufig es ist, dass sich eine gastrointestinale Blutung wiederholt.</profile>
+</topic>
+<topic>
+	<id>qtest2014.27</id>
+	<discharge_summary>15272-026154-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Aortenklappenersatz, ARV</title>
+	<desc>Was ist ein Aortenklappenersatz?</desc>
+	<narr>Das Dokument sollte Grundinformationen über den Aortenklappenersatz enthalten.</narr>
+	<profile>Die ältere Dame bekam den zweiten Aortenklappenersatz, und ist nun entschlossen, mehr über ihre Erkrankung zu erfahren. Zuvor war sie nur passiv, aber jetzt möchte sie mehr über ihren Zustand wissen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.28</id>
+	<discharge_summary>16013-015541-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Wiederkehrende Bauchschmerzen</title>
+	<desc>Was kann Bauchschmerzen verursachen?</desc>
+	<narr>Das Dokument sollte Informationen über mögliche Ursachen von Bauchschmerzen enthalten.</narr>
+	<profile>Die Kinder der älteren Dame möchten über mögliche Ursachen der starken Bauchschmerzen ihrer Mutter, die immer wieder auftreten, wissen. Es gab keine klare Diagnose.</profile>
+</topic>
+<topic>
+	<id>qtest2014.29</id>
+	<discharge_summary>16044-019401-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Aortenstenose, Zustand nach Aortenklappenersatz und Genesung.</title>
+	<desc>Wie lange dauert die Genesung nach einer Aortenklappenoperation?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die körperliche und geistige Erholung nach der Operation liefern.</narr>
+	<profile>Diese 58-jährige Patientin litt an einer Aortenstenose und wurde daher operiert. Jetzt ist sie zu Hause und möchte mehr über ihre Genesung wissen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.30</id>
+	<discharge_summary>16093-011230-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Tracheobronchomalazie</title>
+	<desc>Wie ernst ist die Krankheit Tracheobronchomalazie?</desc>
+	<narr>Die relevanten Dokumente sollten über die Folgen der Tracheobronchomalazie informieren.</narr>
+	<profile>Der Patient ist ein 74-jähriger Mann, der einen chronischen, starken Husten hat, und bei dem nun eine Tracheobronchomalazie festgestellt wurde. Seine Kinder möchten wissen, was diese Krankheit für ihren Vater bedeutet.</profile>
+</topic>
+<topic>
+	<id>qtest2014.31</id>
+	<discharge_summary>16597-023618-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Akutes Nierenversagen</title>
+	<desc>Kann ein akutes Nierenversagen tödlich sein?</desc>
+	<narr>Die relevanten Dokumente sollten über Ursachen und Folgen des akuten Nierenversagens informieren. </narr>
+	<profile>Der Patient ist ein 82-jähriger Mann, der ein akutes Nierenversagen erlitt, dessen Behandlung nicht zur Heilung führte. Der Patient wird nun in einem Hospiz betreut, und seine Verwandten möchten mehr über die Erkrankung wissen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.32</id>
+	<discharge_summary>16888-003484-DISCHARGE_SUMMARY.txtm</discharge_summary>
+	<title>Ratschläge für Patienten mit akutem Herzinfarkt</title>
+	<desc>Welche Ursachen hat der Herzinfarkt, und wie können sie vermieden werden?</desc>
+	<narr>Die relevanten Dokumente sollten Gesundheitsinformationen für Herzkranke liefern, um ihnen zu helfen, Herzinfarkt zu vermeiden.</narr>
+	<profile>Die Patientin ist eine 48-jährige Frau mit hohem Risiko für ein Herzversagen. Nach ihrem ersten Herzinfarkt möchte sie wissen, wie man gesünder leben kann.</profile>
+</topic>
+<topic>
+	<id>qtest2014.33</id>
+	<discharge_summary>16994-022078-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Lungenversagen und kongestive Herzinsuffizienz </title>
+	<desc>In welchem Zusammenhang stehen Lungenversagen und kongestive Herzinsuffizienz?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über das Lungenversagen und die kongestive Herzinsuffizienz enthalten.</narr>
+	<profile>Die Patientin ist eine 68-jährige Frau, die seit langem an einer kongestiven Herzinsuffizienz leidet. Nun wurde sie mit Lungenversagen ins Krankenhaus eingeliefert, und sie möchte mehr über den Zusammenhang zwischen den beiden  Erkrankungen erfahren.</profile>
+</topic>
+<topic>
+	<id>qtest2014.34</id>
+	<discharge_summary>17090-026395-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Blutung nach einer Hüftoperation</title>
+	<desc>Was können die Ursachen für einen Einriss der Oberschenkelarterie nach einer Hüftersatzoperation sein?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über Kreislaufkomplikationen nach Hüftersatz enthalten.</narr>
+	<profile>Der 65-jährige Patient musste wegen einer starken Blutung erneut operiert werden. Er möchte mehrüber die Ursachen der Blutung erfahren und ob der Chirurg unachtsam war.</profile>
+</topic>
+<topic>
+	<id>qtest2014.35</id>
+	<discharge_summary>17217-011306-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Magengeschwür</title>
+	<desc>Welche Nahrung wird empfohlen, wenn ein Magengeschwür diagnostiziert wurde?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die empfohlene Ernährung für Patienten mit einem Magengeschwür enthalten.</narr>
+	<profile>Der Patient ist ein 43-jähriger Mann, der zu Hause schwarzen, teerigen Stuhl hatte. Er möchte wissen, welche Ernährung zu seiner Erholung beitragen kann.</profile>
+</topic>
+<topic>
+	<id>qtest2014.36</id>
+	<discharge_summary>17336-021181-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Genesung nach einer offenen Beckenfraktur und einer Fraktur des rechten oberen Schambeinastes. </title>
+	<desc>Wie lange dauert die Genesung nach einer rechtsseitigen offenen Beckenfraktur und einer Fraktur des rechten oberen Schambeinastes?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Rehabilitation nach einer Beckenfraktur und einer Ramusfraktur enthalten.</narr>
+	<profile>Die Patientin ist eine 18-jährige Frau, die bei einem Autounfall die Brüche erlitten hat. Sie möchte wissen, wie lange es dauern wird, bis sie wieder sitzen und gehen kann.</profile>
+</topic>
+<topic>
+	<id>qtest2014.37</id>
+	<discharge_summary>17473-000673-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Zustand nach suprazervikaler Hysterektomie, rechtsseitiger Salpingooophorektomie und Lösung von Adhäsionen mit einer starken vaginalen Nachblutung.</title>
+	<desc>Welche Ursachen haben massive gynäkologische Blutungen?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Ursachen von gynäkologischen Blutungen enthalten.</narr>
+	<profile>Diese 43-jährige Schwangere hatte eine massive gynäkologische Blutung und mußte sich einer suprazervikalen Hysterektomie und einer rechtsseitigen Salpingooophorektomie unterziehen. Jetzt möchte siedie Ursachen der Blutung erfahren.</profile>
+</topic>
+<topic>
+	<id>qtest2014.38</id>
+	<discharge_summary>18321-022756-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Anämie nach Blutverlust</title>
+	<desc>Welche Ursachen hat die Ösophagusblutung?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Ursachen der Ösophagusblutung enthalten.</narr>
+	<profile>Die Patientin ist eine 50-jährige Frau, die hellrotes Blut erbrochen hat. Sie möchte wissen, warum sie geblutet hat.</profile>
+</topic>
+<topic>
+	<id>qtest2014.39</id>
+	<discharge_summary>19649-021294-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Akuter Herzinfakt</title>
+	<desc>Wie hoch ist die Überlebensrate nach einem zweiten Herzinfakt?</desc>
+	<narr> Die relevanten Dokumente sollten Informationen über die Überlebensraten nach einem Herzinfakt enthalten.</narr>
+	<profile>Der Patient ist ein 54-jähriger Mann mit Herzinfarkten in der Anamnese. Jetzt möchte er wissen, was für ein Glück er hatte, den zweiten Herzinfakt überlebt zu haben.</profile>
+</topic>
+<topic>
+	<id>qtest2014.40</id>
+	<discharge_summary>19709-026760-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Doppelseitige Lungenquetschung</title>
+	<desc>Was ist eine doppelseitige Lungenquetschungund hätte sie bei einem Autounfall vermieden werden können?</desc>
+<narr>Die relevanten Dokumente sollten Informationen über Verletzungen enthalten, die man vermeiden kann, wenn  man einen Sicherheitsgurt verwendet. </narr>
+	<profile>Die Patientin war eine nicht angegurtete Fahrerin bei einer Kraftfahrzeug-Kollision unter hoher Geschwindigkeit.. Nun möchte sie wissen, ob sie der Sicherheitsgurt vor den Verletzungen hätten schützen können.</profile>
+</topic>
+<topic>
+	<id>qtest2014.41</id>
+	<discharge_summary>19791-003873-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title> Pankreaspseudozyste und Alkoholkonsum</title>
+	<desc>In welchem Zusammenhang stehen Pankreaspseudozyste und Alkohol ?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Ursachen von  Pankreaspseudozysten enthalten.</narr>
+	<profile>Diese 55-jährige Dame hat in der Anamnese eine chronische Bauchspeicheldrüsenentzündung, die durch Alkohol verursacht wurde. Jetzt möchten ihre Kinder wissen, ob der Alkoholkonsum die Ursache ihrer Erkrankung sein könnte.</profile>
+</topic>
+<topic>
+	<id>qtest2014.42</id>
+	<discharge_summary>20038-028322-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Foramen ovale</title>
+	<desc>Was ist ein Foramen ovale und welche Ursachen hat es?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Ursachen und Symptome des Foramen ovale enthalten.</narr>
+	<profile>Diese 40-jährige Frau hat sich einer Operation des Foramen ovale unterzogen und möchte jetzt wissen, was das Foramen ovale ist und wie man es bekommen kann.</profile>
+</topic>
+<topic>
+	<id>qtest2014.43</id>
+	<discharge_summary>21633-029484-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Koronare Herzkrankheit und insulinabhängiger Diabetes mellitus</title>
+	<desc>Wie beeinflusst der insulinabhängige Diabetes mellitus die koronare Herzkrankheit?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über den Zusammenhang zwischen dem insulinabhängigen Diabetes mellitus und der koronaren Herzkrankheit enthalten.</narr>
+	<profile>Der 61-jährige Mann möchte wissen, ob es einen Zusammenhang zwischen Diabetes und Herzproblemen gibt.</profile>
+</topic>
+<topic>
+	<id>qtest2014.44</id>
+	<discharge_summary>21745-025001-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Wie kann man einen Dünndarmverschluss vermeiden?</title>
+	<desc>Was sind die Ursachen eines Dünndarmverschlusses, und wie kann die Erkrankung vermieden werden?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Ursachen des Dünndarmverschlusses enthalten und Anleitungen zur Änderungen des Lebensstils zur Vermeidung der Erkrankung geben.</narr>
+	<profile>Die Tochter der 85-jährigen Frau möchte Informationen über die Erkrankung ihrer Mutter erhalten. Sie möchte auch wissen, wie sie ihrer Mutter helfen kann die Erkrankung nicht wieder zu bekommen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.45</id>
+	<discharge_summary>21833-003461-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Bakteriämie durch Streptokokken der Gruppe A</title>
+	<desc>Was ist eine Bakteriämie durch Streptokokken der Gruppe A?</desc> 
+	<narr>Die relevanten Dokumente sollten Informationen über die Bakteriämie, die durch Streptokokken der Gruppe A hervorgerufen wird, ihre Ursachen und Behandlung enthalten.</narr>
+	<profile>Der Eheman der 37-jährigen Patientin möchte über die Erkrankung seiner FrauBescheid wissen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.46</id>
+	<discharge_summary>22739-020612-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Komplikationen des Diabetes mellitus Typ 1</title>
+	<desc>Welche kurzfristigen und langfristigen Komplikationen können bei Diabetes mellitus Typ1 auftreten?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Komplikationen des Diabetes mellitus Typ 1 enthalten.</narr>
+	<profile>Dieser 30-jährige Mann hat gerade erfahren, dass er Diabetes mellitus Typ 1 hat. Er hat über die Komplikationen der Krankheit gehört und möchte jetzt mehr über sie erfahren.</profile>
+</topic>
+<topic>
+	<id>qtest2014.47</id>
+	<discharge_summary>22821-026994-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Behandlung der Subarachnoidalblutung</title>
+	<desc>Welche Behandlungsmöglichkeiten gibt es bei der Subarachnoidalblutung?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Behandlung der Subarachnoidalblutung enthalten.</narr>
+	<profile>Der 36-jährige Patient erinnert sich nicht, wie er im Krankenhaus behandelt wurde. Jetzt möchte er über die Versorgung von Patienten mit einer Subarachnoidalblutung Bescheid wissen.</profile>
+</topic>
+<topic>
+	<id>qtest2014.48</id>
+	<discharge_summary>23590-017830-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title> Weiße Blutkörperchen mit mäßig Bakterien im Urintest</title>
+	<desc>Was bedeutet es, weiße Blutkörperchen mit mäßig Bakterien im Urintest zu haben? </desc>
+	<narr>Die relevanten Dokumente sollten Informationen über Harnwegsinfekte  und ihre Behandlung enthalten.</narr>
+	<profile>Diese Patientin möchte wissen, was das Ergebnis ihres Laborbefundes bedeutet. Sie möchte wissen, ob eine medikamentöse Behandlung nötig ist. </profile>
+</topic>
+<topic>
+	<id>qtest2014.49</id>
+	<discharge_summary>24432-013472-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Chronische lymphatische Leukämie und Vererbung</title>
+	<desc>Ist die chronische lymphatische Leukämie erblich?</desc>
+	<narr>Die relevanten Dokumente  sollten Informationen über die Vererbung der chronischen lymphatischen Leukämie enthalten.</narr>
+	<profile>Die Kinder des 80-jährigen Mannes, der mehrere Krankheiten hatte und gerade gestorben ist, möchten wissen, ob eine der Krankheiten, die chronische lymphatische Leukämie, erblich ist. </profile>
+</topic>
+<topic>
+	<id>qtest2014.50</id>
+	<discharge_summary>00098-016139-DISCHARGE_SUMMARY.txt</discharge_summary>
+	<title>Zerebrales Aneurysma</title>
+	<desc>Was ist ein zerebrales Aneurysma?</desc>
+	<narr>Die relevanten Dokumente sollten Informationen über die Ursachen und die Behandlung des zerebralen Aneurysmas enthalten.</narr>
+	<profile>Der Eheman der 40-jährigen Patientin, die mit Verdacht auf ein zerebrales Aneurysma ins Krankenhaus eingeliefert wurde, möchte über die Erkrankung, an der seine Frau leidet, Bescheid wissen.</profile>
+</topic>
+</topics>

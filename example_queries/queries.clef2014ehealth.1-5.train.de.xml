@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+  <topic>
+    <id>QTRAIN2014.1</id>
+    <discharge_summary>08114-027513-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>MRSA und Wundinfektion</title>
+    <desc>Was ist eine MRSA-Infektion und ist sie gefährlich?</desc>
+    <profile>Diese 60-jährige Frau hatte eine Koronararterien-Bypassoperation durchgemacht. Während der Erholung wurde ihre Wunde infiziert. Sie will wissen, wie gefährlich ihre Infektion ist, wo sie sie bekommen hat und ob sie wiederholt infiziert werden kann.</profile>
+    <narr>Die Dokumente sollten Informationen über die sternale Wundinfektion mit MRSA enthalten. Sie sollen die Ursachen und Komplikationen beschreiben.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.2</id>
+    <discharge_summary>22743-004908-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Infektion im Nervenwasser und Medikation</title>
+    <desc>Was ist eine Infektion im Nervenwasser und welche Arten der Medikation werden empfohlen?</desc>
+    <profile>Metastasic breast cancer patient with CSF infection. This nearly 60-year old woman has a severe metastasic cancer. She has had several complications and is very tired. She has a supportive family and now her husband and herself want to know more about her latest complication that is an infection in a shunt that delivers chemotherapy to the central nervous system.</profile>
+    <narr>Die Dokumente sollten Informationen über die Infektion und ihre Behandlung enthalten.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.3</id>
+    <discharge_summary>07726-023607-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Terminale Niereninsuffizienz</title>
+    <desc>Ist es möglich, dass die Nieren wieder zu funktionieren anfangen?</desc>
+    <profile>Diese 46-jährige Frau leidet an einer terminalen Niereninsuffizienz und ist depressiv. Sie ging nicht zu ihrer täglichen Dialyse und jetzt leidet sie unter den Folgen. Sie denkt immer noch, dass ihre Nieren wieder anfangen werden zu funktionieren. Ihr Lebensstil entspricht nicht der regelmäßigen Lebensweise, die für ihr Krankheitsstadium erforderlich wäre. Jetzt will sie wissen, ob sie noch je geheilt werden kann.</profile>
+    <narr>Die Dokumente sollten die terminale Niereninsuffizienz und ihre Behandlung beschreiben.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.4</id>
+    <discharge_summary>20288-027184-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Aortendissektion</title>
+    <desc>Was ist eine Aortendissektion, wie ernst ist diese Krankheit und kann sie sich wiederholen?</desc>
+    <profile>Dieser 80-jährige Mann hat mehrere Krankheiten durchgemacht. Jetzt wurde bei ihm eine Aortendissektion festgestellt und operiert. Seine Familie will mehr über die Krankheit und ihre Schwere erfahren.</profile>
+    <narr>Die Dokumente sollten allgemeine Informationen über die Aortendissektion und deren Schwere enthalten.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.5</id>
+    <discharge_summary>07352-013977-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Perforation der Speiseröhre und Risiko</title>
+    <desc>Was ist eine Perforation der Speiseröhre und kann sie wiederholt vorkommen?</desc>
+    <profile>Dieser fast 70-jährige Mann hat eine fortgeschrittene multiple Sklerose und einige weitere Krankheiten. Früher hatte er einen Speiseröhrenpolyp gehabt; dieser wurde entfernt. Nach der Entfernung wurde er mit einer Perforation der Speiseröhre ins Krankenhaus aufgenommen. Seine Krankenpflegerin möchte jetzt wissen, wie hoch das Risiko ist, dass sich bei ihm diese Perforation wiederholen wird.
+</profile>
+    <narr>Die Dokumente sollten Informationen über die Perforation der Speiseröhre im Allgemeinen sowie über das Wiederholungsrisiko bei dieser Erkrankung enthalten.</narr>
+  </topic>
+</topics>

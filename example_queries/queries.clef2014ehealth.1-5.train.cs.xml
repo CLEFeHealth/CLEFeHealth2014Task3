@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+  <topic>
+    <id>QTRAIN2014.1</id>
+    <discharge_summary>08114-027513-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>MRSA a infekce rány</title>
+    <desc>Co to je infekce MRSA a je nebezpečná?</desc>
+    <profile>Tato šedesátiletá žena prodělala koronární bypass a během hospitalizace se jí rána zanítila. Chce vědět, jak nebezpečná je její infekce, odkud ji získala a zda může infekci dostat znovu.</profile>
+    <narr>Dokumenty by měly zahrnovat informace o sternální infekci rány MRSA. Měly by popisovat příčiny a komplikace.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.2</id>
+    <discharge_summary>22743-004908-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Infekce CSF a medikace</title>
+    <desc>Co to je infekce CSF a jaké léky se doporučují?</desc>
+    <profile>Pacientka s metastatickým karcinomem prsu a infekcí CSF. Tato téměř šedesátiletá žena má těžký metastatický karcinom. Došlo u ní k několika komplikacím a je velmi unavená. Rodina je jí oporou a ona i její manžel se nyní chtějí dozvědět více o její poslední komplikaci, tj. infekci shuntu, který umožňuje chemoterapii centrálního nervového systému.</profile>
+    <narr>Dokumenty by měly zahrnovat informace o infekci a její léčbě.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.3</id>
+    <discharge_summary>07726-023607-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Terminální stádium onemocnění ledvin</title>
+    <desc>Je možné, že ledviny začnou opět fungovat?</desc>
+    <profile>Tato šestačtyřicetiletá žena je v terminálním stádiu onemocnění ledvin a trpí depresí. Nechodila na denní dialýzu a v důsledku toho nyní trpí. Stále si myslí, že její ledviny začnou znovu fungovat. Její životospráva neodpovídá pravidelné životosprávě, kterou by měla ve svém stádiu onemocnění mít. Nyní chce vědět, zda se někdy vyléčí.</profile>
+    <narr>Dokumenty by měly popisovat terminální stádium onemocnění ledvin a jeho léčbu.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.4</id>
+    <discharge_summary>20288-027184-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Disekce hrudí aorty</title>
+    <desc>Co to je disekce hrudní aorty, může se opakovat a jak závažné je toto onemocnění?</desc>
+    <profile>Tento osmdesátiletý muž měl několik zdravotních potíží. Byla u něj objevena disekce hrudní aorty a byl zoperován. Rodina se chce dozvědět více o tomto onemocnění a jeho závažnosti.</profile>
+    <narr>Dokumenty by měly zahrnovat obecné informace o disekci hrudní aorty a její závažnosti. </narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.5</id>
+    <discharge_summary>07352-013977-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Perforace jícnu a riziko</title>
+    <desc>Co to je perforace jícnu a může se opakovat?</desc>
+    <profile>Tento téměř sedmdesátiletý pacient má pokročilou roztroušenou sklerózu a několik dalších onemocnění. V minulosti měl jícnový polyp, který byl odstraněn. Po odstranění se u něj vyskytla perforace jícnu a byl přijat do nemocnice. Jeho domácí ošetřující sestra chce nyní vědět, jaké je riziko, že u něj opět dojde k perforaci.</profile>
+    <narr>Dokumenty by měly zahrnovat obecné informace o perforaci jícnu a rizicích opakování této příhody.</narr>
+  </topic>
+</topics>

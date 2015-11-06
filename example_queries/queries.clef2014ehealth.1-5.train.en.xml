@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+  <topic>
+    <id>QTRAIN2014.1</id>
+    <discharge_summary>08114-027513-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>MRSA and wound infection</title>
+    <desc>What is MRSA infection and is it dangerous?</desc>
+    <profile>This 60 year old lady has had coronary artery bypass grafting surgery and during recovery her wound has been infected. She wants to know how dangerous her infection is, where she got it and if she can be infected again with it.</profile>
+    <narr>Documents should contain information about sternal wound infection by MRSA. They should describe the causes and the complications.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.2</id>
+    <discharge_summary>22743-004908-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>CSF infection and medication</title>
+    <desc>What is CSF infection and what kind of medications are recommended?</desc>
+    <profile>Metastasic breast cancer patient with CSF infection. This nearly 60-year old woman has a severe metastasic cancer. She has had several complications and is very tired. She has a supportive family and now her husband and herself want to know more about her latest complication; a cerebro spinal fluid infection in the shunt which delivers chemotherapy to the central nervous system.</profile>
+    <narr>Documents should contain information about the infection and its treatment.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.3</id>
+    <discharge_summary>07726-023607-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>End stage renal disease</title>
+    <desc>Is it possible that the kidneys start to work again?</desc>
+    <profile>This 46-year old woman is suffering from end stage renal disease and is depressed. She has not been going to her daily dialysis and is now suffering from the consequences. She still thinks that her kidneys will start working. She has a lifestyle that is not supporting the regular lifestyle that would be necessary for her stage. Now she wants to know will she ever be cured.</profile>
+    <narr>Documents should describe end stage renal disease and its care.</narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.4</id>
+    <discharge_summary>20288-027184-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>aortic dissection</title>
+    <desc>What is aortic dissection, can it come again and how serious of a disease is it?</desc>
+    <profile>This 80 year old male has had several medical conditions. He has now been found with aortic dissection, and an operation has been performed to treat this. The family wants to know more about the disease and its severity.</profile>
+    <narr>Documents should contain general information about aortic dissection and its severity. </narr>
+  </topic>
+  <topic>
+    <id>QTRAIN2014.5</id>
+    <discharge_summary>07352-013977-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Esophageal perforation and risk</title>
+    <desc>What is esophageal perforation and can it reappear?</desc>
+    <profile>This nearly 70-year old male has advanced multiple sclerosis and several other medical conditions. Previously he has had an esophageal polyp that has been removed. After removal he had a perforation and was admitted to hospital. Now his home nurse wants to know what is the risk of him getting this perforation again?</profile>
+    <narr>Documents should contain general information about esophageal perforation and risks of obtaining this disorder again.</narr>
+  </topic>
+</topics>

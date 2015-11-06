@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+<topic>
+    <id>qtest2014.1</id>
+    <discharge_summary>00211-027889-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Ischemická choroba srdeční</title>
+    <desc>Co to je ischemická choroba srdeční? </desc>
+    <narr>Dokumenty by měly obsahovat základní informace o ischemické chorobě srdeční a s ní související péči.</narr>
+    <profile>Tato pozitivní žena ve věku 83 let měla nějaký čas problémy se srdcem a zvýšenou dušnost. Po návštěvě lékaře má nyní diagnózu těchto potíží. Ona a její dcera hledají na internetu informace o onemocnění, které jí bylo diagnostikováno. Nic o tomto onemocnění nevědí.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.2</id>
+    <discharge_summary>01234-029456-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Sepse</title>
+    <desc>Mohla být sepse příčinou smrti?</desc>
+    <narr>Dokument by měl obsahovat obecné informace o sepsi a jejích možných následcích.</narr>
+    <profile>Pacientka byla žena ve věku 83 let, která zemřela po prodělání sepse. Její dcera chce vědět, zda je sepse možnou příčinou její smrti. Neví, co to sepse je.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.3</id>
+    <discharge_summary>01314-028800-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Levý hemopneumothorax</title>
+    <desc>Jaké jsou pozdní komplikace hemopneumothoraxu?</desc>
+    <narr>Dokument by měl obsahovat informace o pozdních komplikacích hemopneumothoraxu.</narr>
+    <profile>Muž ve věku 70 let řídil auto bez použití bezpečnostního pásu a stal se účastníkem nehody. Měl mnoho zlomenin hrudníku a jiných částí těla. Jeho příbuzní chtějí vědět, jak by se o něj měli doma starat. Bylo jim řečeno, aby pravidelně kontrolovali, zda má bolest na hrudi, dušnost, závažnou  nevolnost nebo zvracení, vysokou teplotu nebo slabost. Chtějí vědět proč.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.4</id>
+    <discharge_summary>02115-010823-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Anoxické poškození mozku</title>
+    <desc>Může při závažném poškození mozku jedinec pociťovat bolest?</desc>
+    <narr>Dokument by měl obsahovat informace o poškození mozku a bolesti.</narr>
+    <profile>Dcera této již zesnulé ženy ve věku 87 let chce vědět, zda je možné, že její matka měla nepozorovanou bolest při závažném poškození mozku, k němuž u ní došlo v jejích posledních dnech. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.5</id>
+    <discharge_summary>02136-017465-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Krvácení do horní části gastrointestinálního traktu</title>
+    <desc>Jaké jsou možné příčiny krvácení do horní části gastrointestinálního traktu?</desc>
+    <narr>Dokument by měl obsahovat informace o krvácení do horní části gastrointestinálního traktu.</narr>
+    <profile>Tento pacient mužského pohlaví je dobře obeznámen s většinou svých onemocnění, ale nyní chce vědět, co u něj mohlo způsobit krvácení do horní části gastrointestinálního traktu. Od doktora nedostal jasnou odpověď a nenašel ji ani v propouštěcí zprávě. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.6</id>
+    <discharge_summary>02410-026171-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Aortální stenóza</title>
+    <desc>Co to je aortální stenóza a jak se léčí?</desc>
+    <narr>Dokument by měl obsahovat informace o aortální stenóze a možnostech její léčby.</narr>
+    <profile>Muž ve věku 71 let byl postižen aortální stenózou a je s tímto onemocněním obeznámen. O svém onemocnění toho ví docela dost, ale vzhledem k tomu, že od jeho dřívější operace už nějaký čas uplynul, chce získat nové poznatky o tomto onemocnění a jeho léčbě.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.7</id>
+    <discharge_summary>02652-006395-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Absces ze žlučových kamenů, pravá strana</title>
+    <desc>Jak může člověk přijít k abscesu z uvolněných žlučových kamenů a jsou časté?</desc>
+    <narr>Dokument by měl obsahovat informace o uvolněných žlučových kamenech, jejich abscesech, o tom, jak často se vyskytují a co je způsobuje.</narr>
+    <profile>Tento pacient je relativně zdravý starší muž. Chce se dozvědět více o žlučových kamenech, zejména o způsobu vzniku abscesů a uvolňování.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.8</id>
+    <discharge_summary>03273-009330-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Abstinenční příznaky po vysazení alkoholu</title>
+    <desc>Jak jsou nebezpečné abstinenční příznaky po vysazení alkoholu?</desc>
+    <narr>Dokument by měl obsahovat informace o abstinenčních příznacích po vysazení alkoholu a jejich následcích.</narr>
+    <profile>Tento muž ve věku 47 let v minulosti dlouhou dobu nadměrně konzumoval alkohol a jiné látky. Jeho sestra chce jejich rodičům vysvětlit, jaký druh problému abstinenční příznaky po vysazení alkoholu představují a jaké jsou jejich následky.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.9</id>
+    <discharge_summary>04269-027967-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Pneumonie pravého horního laloku s kavitární lézí</title>
+    <desc>Co znamená kavitární léze v souvislosti s pneumonií horního laloku?</desc>
+    <narr>Dokument by měl obsahovat informace o pneumonii horního laloku a kavitárních lézích.</narr>
+    <profile>Tento muž ve věku 39 let byl většinou zdravý, ale nyní se u něj po aspiraci objevila pneumonie. Chce o ní vědět více, protože se kvůli ní cítí velmi unaveně a nepříjemně.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.10</id>
+    <discharge_summary>04303-005081-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Traumatické poranění mozku, stav po pádu</title>
+    <desc>Jaké jsou možné následky poranění mozku?</desc>
+    <narr>Dokument by měl obsahovat informace o poranění mozku a jeho možných následcích.</narr>
+    <profile>Pacient má po pádu poranění mozku. On a jeho děti chtějí vědět, čeho by si měli být nyní vědomi, když pacienta propouští z nemocnice a stále existuje nebezpečí krvácení.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.11</id>
+    <discharge_summary>07429-001857-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Aspirační pneumonie způsobená špatným umístěním Dobhoffovy sondy</title>
+    <desc>Co to je Dobhoffova sonda a proč způsobila pneumonii?</desc>
+    <narr>Dokument by měl obsahovat informace o Dobhoffově sondě a důsledcích špatného umístění.</narr>
+    <profile>Tato starší žena měla vážnou dopravní nehodu. Potřebovala sondu pro výživu. Sonda byla omylem umístěna do jejích plic místo do žaludku. To způsobilo pneumonii. Rodina chce vědět, zda to je běžný problém nebo výjimečné nedopatření.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.12</id>
+    <discharge_summary>07514-025655-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Jaterní encefalopatie</title>
+    <desc>Co to je jaterní encefalopatie a proč způsobuje nejasnosti?</desc>
+    <narr>Dokument by měl obsahovat informace o jaterní encefalopatii a jejích následcích.</narr>
+    <profile>Pacient má v anamnéze žloutenku typu C a nyní trpí jaterní encefalopatií. Pacient a jeho žena chtějí vědět více o této strach vzbuzující potíži a o tom, jak nebezpečná skutečně je.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.13</id>
+    <discharge_summary>08703-021487-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Stav po částečné laryngektomii</title>
+    <desc>Co to je částečná laryngektomie?</desc>
+    <narr>Dokument by měl obsahovat informace o částečné laryngektomii. </narr>
+    <profile>Tento mladý muž s Downovým syndromem má už dlouho chronickou aspiraci a nyní mu byl operován hrtan. Pacientova rodina se chce dozvědět více o postupu, který u něj byl proveden.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.14</id>
+    <discharge_summary>09337-018472-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Infarkt myokardu</title>
+    <desc>Co to je infarkt myokardu?</desc>
+    <narr>Dokument by měl obsahovat informace o infarktu myokardu.</narr>
+    <profile>Tato starší žena prodělala svůj první infarkt myokardu a spolu se svou rodinou se chce dozvědět více o tomto onemocnění, protože nikdo v její blízké rodině nikdy srdeční onemocnění neměl.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.15</id>
+    <discharge_summary>10101-012638-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Nemalobuněčný karcinom plic</title>
+    <desc>Je rakovina plic dědičná? </desc>
+    <narr>Dokument by měl obsahovat informace o různých druzích rakoviny plic a o tom, jak je pravděpodobné, že se bude v rodině rakovina dědit.</narr>
+    <profile>Pacient mužského pohlaví ve věku 74 let zemřel na rakovinu plic a jeho děti chtějí vědět, zda je pravděpodobné, že je rakovina plic také postihne.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.16</id>
+    <discharge_summary>10644-007491-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Cévní mozková příhoda a respirační selhání</title>
+    <desc>Souvisí spolu cévní mozková příhoda a respirační selhání?</desc>
+    <narr>Dokument by měl obsahovat informace o cévní mozkové příhodě a respiračním selhání.</narr>
+    <profile>Tento kněz ve věku 78 let se uzdravuje po cévní mozkové příhodě a chce nyní vědět, zda a jak spolu souvisí jeho dvě diagnózy, cévní mozková příhoda a respirační selhání.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.17</id>
+    <discharge_summary>11439-014138-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Chronický duodenální vřed</title>
+    <desc>Jak často začne vřed znovu krvácet?</desc>
+    <narr>Dokument by měl obsahovat informace o chronických duodenálních vředech.</narr>
+    <profile>Tento dříve zdravý muž ve středních letech měl několik dní krvavou stolici a byly u něj zjištěny chronické duodenální vředy. On a jeho žena se chtějí o tomto onemocnění dozvědět více, protože mužův otec zemřel na krvácení do gastrointestinálního traktu.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.18</id>
+    <discharge_summary>11762-027273-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Závratě a hypotenze</title>
+    <desc>Jak předcházet závratím a hypotenzi?</desc>
+    <narr>Dokument by měl obsahovat informace o hypotenzi a závratích.</narr>
+    <profile>Tato žena ve věku 63 let žije z důvodu duševního onemocnění v pečovatelském domě. Omdlela a musela navštívit nemocnici. Teď, když je opět doma, chtějí její ošetřovatelé vědět, jak co nejlépe předejít tomu, aby znovu neomdlela. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.19</id>
+    <discharge_summary>11823-007872-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Aneurysma levé karotické tepny</title>
+    <desc>Co to je aneurysma karotické tepny?</desc>
+    <narr>Dokument by měl obsahovat informace o aneurysmatu levé karotické tepny.</narr>
+    <profile>Tento mladý muž měl záchvaty a vyšetření  odhalila aneurysma levé karotické tepny. On a jeho rodina se chtějí o tomto onemocnění dozvědět více.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.20</id>
+    <discharge_summary>12748-021750-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Subdurální hematom</title>
+    <desc>Co to je subdurální hematom a může se po něm člověk uzdravit?</desc>
+    <narr>Dokument by měl obsahovat informace o subdurálním hematomu, jeho následcích a o tom, zda je možné se po něm uzdravit.</narr>
+    <profile>Rodiče této ženy se chtějí dozvědět více o subdurálním hematomu, což je onemocnění jejich dcery. Zároveň chtějí vědět, zda se jejich dcera ještě někdy uzdraví.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.21</id>
+    <discharge_summary>13033-020154-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Selhání ledvin</title>
+    <desc>Jak moc je selhání ledvin nebezpečné a opakuje se?</desc>
+    <narr>Dokument by měl obsahovat informace o selhání ledvin, jeho příčinách a následcích.</narr>
+    <profile>Pacient má diabetes mellitus, hypertenzi a gastroparézu. Nyní nepracují  dobře jeho ledviny a on se chce o selhání ledvin dozvědět více.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.22</id>
+    <discharge_summary>14708-006815-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Sebevražedné myšlenky</title>
+    <desc>Je běžné, že se sebevražedné myšlenky opakují?</desc>
+    <narr>Dokument by měl obsahovat informace o sebevražedných myšlenkách.</narr>
+    <profile>Rodiče tohoto muže ve věku 40 let chtějí vědět, jestli je je možné, že se jejich syn se schizoafektivní poruchou znovu pokusí o sebevraždu. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.23</id>
+    <discharge_summary>14822-000161-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Koronární bypass</title>
+    <desc>Jak je při léčbě onemocnění účinný koronární bypass?</desc>
+    <narr>Dokument by měl obsahovat informace o koronárním bypassu a jeho účinnosti.</narr>
+    <profile>Tato starší žena se v minulosti rozhodla odmítnout koronární bypass, ale teď se pro něj nakonec rozhodla. Ona a její děti se teď chtějí dozvědět více o tomto zákroku a jeho účinnosti.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.24</id>
+    <discharge_summary>http://computing.dcu.ie/~lgoeuriot/clefehealth-queries/08951-002958-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Diabetes typu 1 a problémy se srdcem</title>
+    <desc>Jakým způsobem ovlivňuje diabetes typu 1 funkci srdce?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o diabetu typu 1 a jeho souvislosti s problémy krevního oběhu, zejména u cév srdce.</narr>
+    <profile>Pacientem je muž ve věku 71 let, který má v anamnéze čtyři koronární bypassy a diabetes. Má opět problémy se srdcem a obává se toho, jak tyto dvě onemocnění společně negativně ovlivní jeho život.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.25</id>
+    <discharge_summary>14897-025566-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Cévní mozková příhoda</title>
+    <desc>Co to je cévní mozková příhoda?</desc>
+    <narr>Dokument by měl obsahovat základní informace o cévní mozkové příhodě.</narr>
+    <profile>Tento mladý muž má problémy se srdcem a podstoupil náhradu aortální chlopně, která se nyní opakuje. Nyní má určité komplikace a chce vědět více o cévní mozkové příhodě, která je jednou z jeho současných diagnóz.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.26</id>
+    <discharge_summary>15128-008249-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Krvácení do gastrointestinálního traktu</title>
+    <desc>Co může být příčinou krvácení do gastrointestinálního traktu a je běžné, že k němu dojde více než jednou?</desc>
+    <narr>Dokument by měl obsahovat informace o krvácení do gastrointestinálního traktu, jeho příčinách a následcích.</narr>
+    <profile>Žena tohoto muže ve středních letech, který má v anamnéze dlouhodobé těžké pití, by ráda věděla, jak je časté, že se krvácení do gastrointestinálního traktu opakuje.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.27</id>
+    <discharge_summary>15272-026154-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Náhrada aortální chlopně</title>
+    <desc>Co to je náhrada aortální chlopně?</desc>
+    <narr>Dokument by měl obsahovat základní informace o náhradě aortální chlopně.</narr>
+    <profile>Toto je druhá náhrada aortální chlopně této starší ženy, která se rozhodla, že se o svém onemocnění dozví více. Předtím byla jen pasivní, nyní se však chce o svém onemocnění dozvědět více.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.28</id>
+    <discharge_summary>16013-015541-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Intermitentní bolesti břicha</title>
+    <desc>Co může být příčinou bolestí břicha?</desc>
+    <narr>Dokument by měl obsahovat informace o možných příčinách bolesti břicha.</narr>
+    <profile>Děti této starší ženy se chtějí dozvědět možné příčiny závažné bolesti břicha, jíž trpí jejich matka a které se sem tam opakují. Nebyla stanovena žádná přesná diagnóza.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.29</id>
+    <discharge_summary>16044-019401-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Aortální stenóza, stav po náhradě aortální chlopně a rekonvalescence</title>
+    <desc>Jak dlouho trvá rekonvalescence po náhradě aortální chlopně?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o psychické a fyzické rekonvalescenci po tomto zákroku.</narr>
+    <profile>Toto je pacientka ve věku 58 let, která trpěla aortální stenózou a podstoupila operaci pro její léčbu. Nyní je doma a chce se dozvědět více o své rekonvalescenci.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.30</id>
+    <discharge_summary>16093-011230-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Tracheobronchomalacie</title>
+    <desc>Jak závažnou nemocí je tracheobronchomalacie?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o následcích tracheobronchomalacie.</narr>
+    <profile>Pacient je muž ve věku 74 let trpící chronickým a těžkým kašlem, u něhož byla nyní diagnostikována tracheobronchomalacie. Jeho děti chtějí vědět, co toto onemocnění znamená pro jejich otce.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.31</id>
+    <discharge_summary>16597-023618-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Akutní selhání ledvin</title>
+    <desc>Mohlo akutní selhání ledvin zapříčinit smrt?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o příčinách a následcích akutního selhání ledvin.</narr>
+    <profile>Pacient je muž ve věku 82 let, u něhož došlo k akutnímu selhání ledvin, které nebylo léčitelné. Pacient je nyní v péči hospicu a jeho příbuzní se chtějí o tomto onemocnění dozvědět více.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.32</id>
+    <discharge_summary>16888-003484-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Rady pro pacienta s akutním infarktem myokardu</title>
+    <desc>Jaké jsou příčiny infarktu myokardu a jak se jim vyhnout?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat zdravotnické informace pro pacienty s onemocněním srdce, které jim pomohou zabránit infarktu.</narr>
+    <profile>Pacientka je žena ve věku 48 let, u níž existuje vysoké riziko srdečního selhání. Poté, co prodělala první infarkt, chce vědět, jak žít zdravěji.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.33</id>
+    <discharge_summary>16994-022078-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Respirační selhání a městnavé srdeční selhání</title>
+    <desc>Jak spolu souvisí respirační selhání a městnavé srdeční selhání? </desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o respiračním selhání a městnavém srdečním selhání.</narr>
+    <profile>Pacientka je žena ve věku 68 let, která trpí již dlouho městnavým srdečním selháním. Nyní byla přivezena do nemocnice s respiračním selháním a chce vědět o tom, jak spolu tato dvě onemocnění souvisí.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.34</id>
+    <discharge_summary>17090-026395-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Krvácení po operaci kyčelního kloubu</title>
+    <desc>Co mohlo způsobit laceraci femorální artérie po náhradě kyčelního kloubu?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o komplikacích oběhového systému po náhradě kyčelního kloubu.</narr>
+    <profile>Pacient je muž ve věku 65 let, který byl znovu operován z důvodu masivního krvácení. Chce se dozvědět příčiny krvácení a také to, zda chirurg něco nezanedbal.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.35</id>
+    <discharge_summary>17217-011306-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Peptický vřed</title>
+    <desc>Jaká strava se doporučuje v případě diagnózy peptického vředu?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o doporučené dietě pro pacienty s peptickým vředem.</narr>
+    <profile>Pacient je muž ve věku 43 let, který měl v domácím prostředí černou dehtovitou stolici. Chce vědět, jaký druh diety by měl pozitivní vliv na jeho rekonvalescenci.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.36</id>
+    <discharge_summary>17336-021181-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Rekonvalescence po pravostranné otevřené zlomenině pánve a zlomenině pravého horního ramene stydké kosti.</title>
+    <desc>Jak dlouho trvá rekonvalescence po pravostranné otevřené zlomenině pánve a zlomenině pravého horního ramene stydké kosti?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o rehabilitaci po zlomenině pánve a ramene stydké kosti.</narr>
+    <profile>Pacientka je žena ve věku 18 let, která má zlomeniny z autonehody. Chce vědět, jak dlouho bude trvat, než bude moci sedět a chodit.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.37</id>
+    <discharge_summary>17473-000673-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Příčiny gynekologického krvácení</title>
+    <desc>Jaké jsou příčiny masivního gynekologického krvácení?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o příčinách gynekologického krvácení.</narr>
+    <profile>Jedná se o těhotnou ženu ve věku 43 let, u níž došlo k masivnímu gynekologickému krvácení a která podstoupila supracervikální hysterektomii a pravostrannou salpingo-oophorectomii. Nyní chce znát příčiny krvácení.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.38</id>
+    <discharge_summary>18321-022756-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Příčiny krvácení jícnu</title>
+    <desc>Jaké jsou příčiny krvácení jícnu?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o krvácení jícnu.</narr>
+    <profile>Pacientka je žena ve věku 50 let, která zvracela světle červenou krev. Chce vědět, proč krvácela.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.39</id>
+    <discharge_summary>19649-021294-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Míra přežití po sekundárním infarktu myokardu.</title>
+    <desc>Jaká je pravděpodobnost přežití po druhém infarktu myokardu?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o míře přežití po infarktu myokardu.</narr>
+    <profile>Pacient je muž ve věku 54 let s infarktem myokardu v anamnéze. Nyní chce vědět, jak velké štěstí měl, když přežil druhý infarkt.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.40</id>
+    <discharge_summary>19709-026760-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Bilaterální plicní kontuze a bezpečnostní pás</title>
+    <desc>Co to jsou bilaterální plicní kontuze a mohlo jim být při autonehodě zabráněno?</desc>
+    <narr>Relevantní dokument by měl obsahovat informace o zraněních, jimž může být zabráněno používáním bezpečnostního pásu.</narr>
+    <profile>Pacientka řídila nepřipoutaná při srážce motorových vozidel ve vysoké rychlosti a nyní chce vědět, zda jí bezpečnostní pás mohl zachránit před těmito zraněními.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.41</id>
+    <discharge_summary>19791-003873-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Pseudocysta pankreatu a konzumace alkoholu</title>
+    <desc>Jak spolu souvisí pseudocysta pankreatu a konzumace alkoholu?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o tom, co je příčinou pseudocyst pankreatu.</narr>
+    <profile>Tato žena ve věku 55 let má v anamnéze alkoholem indukovanou chronickou pankreatitidu. Nyní její děti chtějí vědět, zda konzumace alkoholu mohla být příčinou její diagnózy.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.42</id>
+    <discharge_summary>20038-028322-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Foramen ovale</title>
+    <desc>Co to je foramen ovale a co jsou jeho příčiny?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o příčinách a příznacích foramen ovale.</narr>
+    <profile>Tato žena ve věku 40 let podstoupila z důvodu foramen ovale operaci a nyní chce vědět, co to znamená a jak tato nemoc vznikne.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.43</id>
+    <discharge_summary>21633-029484-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Ischemická choroba srdeční a inzulin dependentní diabetes mellitus</title>
+    <desc>Jaký má vliv inzulin dependentní diabetes mellitus na ischemickou chorobu srdeční?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o souvislostech mezi inzulin dependentním diabetes mellitus a ischemickou chorobou srdeční.</narr>
+    <profile>Tento muž ve věku 61 let chce vědět, zda existuje souvislost mezi cukrovkou a problémy se srdcem.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.44</id>
+    <discharge_summary>21745-025001-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Jak mohu zabránit obstrukci tenkého střeva</title>
+    <desc>Jaké jsou příčiny obstrukce tenkého střeva a jak se možné se tomuto onemocnění vyhnout?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o příčinách obstrukce tenkého střeva a měly by poskytnout pokyny pro změnu životního stylu napomáhajícího prevenci nemoci.</narr>
+    <profile>Dcera této ženy ve věku 85 let chce získat informace o onemocnění své matky. Zároveň chce vědět, jak může pomoci své matce v prevenci tohoto onemocnění.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.45</id>
+    <discharge_summary>21833-003461-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Bakteriémie streptokoky skupiny A</title>
+    <desc>Co znamená bakteriémie streptokoky skupiny A?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o bakteriémii streptokoky skupiny A, jejích příčinách a léčbě.</narr>
+    <profile>Manžel pacientky ve věku 37 let se chce něco dozvědět o onemocnění, kterým trpí jeho žena.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.46</id>
+    <discharge_summary>22739-020612-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Komplikace diabetes mellitus typu 1</title>
+    <desc>Jaké jsou dlouhodobé a krátkodobé komplikace diabetes mellitus typu 1?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o komplikacích diabetes mellitus typu 1.</narr>
+    <profile>Jedná se o muže ve věku 30 let, který právě zjistil, že trpí onemocněním diabetes mellitus typu 1. Slyšel o komplikacích tohoto onemocnění a nyní se o nich chce dozvědět více.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.47</id>
+    <discharge_summary>22821-026994-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Léčba subaachnoidálního krvácení</title>
+    <desc>Jaké jsou léčebné postupy u subaachnoidálního krvácení?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o léčbě subaachnoidálního krvácení.</narr>
+    <profile>Tento pacient mužského pohlaví ve věku 36 let si nepamatuje, jak byl v nemocnici léčen. Nyní se chce něco dozvědět o péči o pacienty se subarachnoidálním krvácením.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.48</id>
+    <discharge_summary>23590-017830-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Bílé krvinky a mírná přítomnost bakterií v rozboru moči</title>
+    <desc>Co to znamená, když jsou v rozboru moči bílé krvinky a mírná přítomnost bakterií? </desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o infekcích močových cest a jejich léčbě.</narr>
+    <profile>Tato pacientka chce vědět, co znamená věta ve výsledcích jejího laboratorního vyšetření. Chce vědět, zda je pro léčbu onemocnění zapotřebí medikace. </profile>
+  </topic>
+<topic>
+    <id>qtest2014.49</id>
+    <discharge_summary>24432-013472-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Chronická lymfatická leukémie a dědičnost</title>
+    <desc>Je chronická lymfatická leukémie dědičná?</desc>
+    <narr>Relevantní dokument by měl obsahovat informace o dědičnosti chronické lymfatické leukémie.</narr>
+    <profile>Děti tohoto muže ve věku 80 let, který měl řadu onemocnění a právě zemřel, chtějí vědět, zda jedno z těchto onemocnění je dědičné.</profile>
+  </topic>
+<topic>
+    <id>qtest2014.50</id>
+    <discharge_summary>00098-016139-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Cerebrální aneurysma</title>
+    <desc>Co to je cerebrální aneurysma?</desc>
+    <narr>Relevantní dokumenty by měly obsahovat informace o příčinách a léčbě cerebrálního aneurysmatu.</narr>
+    <profile>Manžel pacientky ve věku 40 let, kterou přijali do nemocnice s diagnózou možného cerebrálního aneurysmatu, se chce dozvědět o onemocnění, jímž trpí jeho žena.</profile>
+  </topic>
+</topics>

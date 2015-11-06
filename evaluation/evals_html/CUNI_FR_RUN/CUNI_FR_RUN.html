@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <title>Share/CLEF eHealth 2013 TASK 3 Results by relevation - Information Retrieval Relevance Judging System</title>
+   <meta name="description" content="">
+    <meta name="author" content="CLEF 2013 Task 3 Committee">
+    <link rel="stylesheet" href="bootstrap.css">
+    <style type="text/css">
+        body { padding-top: 60px; font-size: 12px; }
+        label, button, .btn { font-size: 12px; }
+    </style>
+    <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <script src="./clef_eval_files/jquery.min.js"></script>
+    <script src="./clef_eval_files/bootstrap.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://twitter.github.io/bootstrap/assets/css/bootstrap-responsive.css" rel="stylesheet">
+<style type="text/css">@media print { #feedlyMiniIcon { display: none; } }</style></head>
+
+<body style="zoom: 1;">
+<div class="container">
+<div class="well">
+        <h1>Share/CLEF eHealth 2013 TASK 3 Results - CUNI_FR_RUN</h1>
+        <p>This page summarises the results obtained from your submissions. Here, you can find the mean performance of your submissions, for all standard trec_eval measures and for nDCG at different ranks.</br> For this first year, the Share/CLEF eHealth 2013 TASK 3 built result pools from your submissions considering the top 10 documents ranked by your baseline system (run 1), and the highest priority run that used the discharge summaries (run 2) and the highest priority run that did not used the discharge summaries (run 5). As a consequence:<ul><li>the <b>primary measure for this year is precision at 10 (P@10)</b>,</li><li>the <b>secondary measure is Normalised Discounted Cumulative Gain at rank 10</b> (ndcg_cut_10).</li></ul>Per-query performance can be found in the <i>evals</i> folder in the directory containing this HTML page.</br>Some of the participant's runs contained formatting errors (the most common was the use of a numeric query id in place of the official qtestXX id); others did not retrieve results for some queries. To fairly evaluate the runs of every participant, submitted runs containing formatting errors have been corrected; an artificial document (fakeCLEF) has been added to the result rankings for queries where no result was retrieved. Your runs as have been evaluated are contained in the folder <i>runs</i>.</br>Please refer to the <a href="https://sites.google.com/site/shareclefehealth/">ShARe/CLEF 2013 eHealth Evaluation Lab website</a> for additional details on the task.</p>
+    </div>
+    <div class="row">
+        <div class="span9">
+            <h2>Evaluation with standard trec_eval metrics</h2>
+        <p>These results have been obtained with the binary relevance assessment, i.e. qrels.clef2014.test.bin.txt, and trec_eval 9.0 <a href="http://trec.nist.gov/trec_eval/">as distributed by NIST</a>. Trec_eval was ran as follows:</p>
+<pre>./trec_eval -c -M1000 qrels.clef2014.test.bin.txt runName</pre>
+ <h4>CUNI_FR_RUN.1.dat</h4>
+            <pre>
+runid                 	all	RUN1
+num_q                 	all	50
+num_ret               	all	49051
+num_rel               	all	3209
+num_rel_ret           	all	2056
+map                   	all	0.2344
+gm_map                	all	0.1158
+Rprec                 	all	0.2887
+bpref                 	all	0.4153
+recip_rank            	all	0.5815
+iprec_at_recall_0.00  	all	0.6900
+iprec_at_recall_0.10  	all	0.5525
+iprec_at_recall_0.20  	all	0.4228
+iprec_at_recall_0.30  	all	0.3365
+iprec_at_recall_0.40  	all	0.2769
+iprec_at_recall_0.50  	all	0.2241
+iprec_at_recall_0.60  	all	0.1590
+iprec_at_recall_0.70  	all	0.1212
+iprec_at_recall_0.80  	all	0.0662
+iprec_at_recall_0.90  	all	0.0272
+iprec_at_recall_1.00  	all	0.0056
+P_5                   	all	0.4640
+P_10                  	all	0.4720
+P_15                  	all	0.4253
+P_20                  	all	0.3890
+P_30                  	all	0.3560
+P_100                 	all	0.2240
+P_200                 	all	0.1446
+P_500                 	all	0.0723
+P_1000                	all	0.0411
+</pre>
+ <h4>CUNI_FR_RUN.5.dat</h4>
+            <pre>
+runid                 	all	RUN5
+num_q                 	all	50
+num_ret               	all	49051
+num_rel               	all	3209
+num_rel_ret           	all	2064
+map                   	all	0.2398
+gm_map                	all	0.1196
+Rprec                 	all	0.2939
+bpref                 	all	0.4191
+recip_rank            	all	0.6006
+iprec_at_recall_0.00  	all	0.7062
+iprec_at_recall_0.10  	all	0.5688
+iprec_at_recall_0.20  	all	0.4285
+iprec_at_recall_0.30  	all	0.3414
+iprec_at_recall_0.40  	all	0.2805
+iprec_at_recall_0.50  	all	0.2274
+iprec_at_recall_0.60  	all	0.1641
+iprec_at_recall_0.70  	all	0.1232
+iprec_at_recall_0.80  	all	0.0662
+iprec_at_recall_0.90  	all	0.0272
+iprec_at_recall_1.00  	all	0.0056
+P_5                   	all	0.4840
+P_10                  	all	0.4840
+P_15                  	all	0.4347
+P_20                  	all	0.3980
+P_30                  	all	0.3613
+P_100                 	all	0.2260
+P_200                 	all	0.1454
+P_500                 	all	0.0727
+P_1000                	all	0.0413
+</pre>
+ <h4>CUNI_FR_RUN.6.dat</h4>
+            <pre>
+runid                 	all	RUN6
+num_q                 	all	50
+num_ret               	all	50000
+num_rel               	all	3209
+num_rel_ret           	all	1531
+map                   	all	0.1703
+gm_map                	all	0.0274
+Rprec                 	all	0.2055
+bpref                 	all	0.3447
+recip_rank            	all	0.5717
+iprec_at_recall_0.00  	all	0.6349
+iprec_at_recall_0.10  	all	0.5016
+iprec_at_recall_0.20  	all	0.3240
+iprec_at_recall_0.30  	all	0.2398
+iprec_at_recall_0.40  	all	0.1636
+iprec_at_recall_0.50  	all	0.1088
+iprec_at_recall_0.60  	all	0.0765
+iprec_at_recall_0.70  	all	0.0517
+iprec_at_recall_0.80  	all	0.0284
+iprec_at_recall_0.90  	all	0.0131
+iprec_at_recall_1.00  	all	0.0035
+P_5                   	all	0.4600
+P_10                  	all	0.4560
+P_15                  	all	0.3773
+P_20                  	all	0.3330
+P_30                  	all	0.2667
+P_100                 	all	0.1462
+P_200                 	all	0.0953
+P_500                 	all	0.0501
+P_1000                	all	0.0306
+</pre>
+
+<h2>Evaluation with nDCG</h2>
+        <p>These results have been obtained with the graded relevance assessment, i.e. qrels.clef2014.test.graded.txt, and trec_eval 9.0 <a href="http://trec.nist.gov/trec_eval/">as distributed by NIST</a>.</br>To obtain nDCG at different ranks, trec_eval was ran as follows:</p>
+<pre>./trec_eval -c -M1000 -m ndcg_cut qrels.clef2014.test.graded.txt runName</pre>
+ <h4>CUNI_FR_RUN.1.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.4611
+ndcg_cut_10           	all	0.4675
+ndcg_cut_15           	all	0.4444
+ndcg_cut_20           	all	0.4212
+ndcg_cut_30           	all	0.4014
+ndcg_cut_100          	all	0.3906
+ndcg_cut_200          	all	0.4405
+ndcg_cut_500          	all	0.4902
+ndcg_cut_1000         	all	0.5227
+</pre>
+ <h4>CUNI_FR_RUN.5.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.4766
+ndcg_cut_10           	all	0.4776
+ndcg_cut_15           	all	0.4531
+ndcg_cut_20           	all	0.4301
+ndcg_cut_30           	all	0.4082
+ndcg_cut_100          	all	0.3970
+ndcg_cut_200          	all	0.4462
+ndcg_cut_500          	all	0.4964
+ndcg_cut_1000         	all	0.5285
+</pre>
+ <h4>CUNI_FR_RUN.6.dat</h4>
+            <pre>
+ndcg_cut_5            	all	0.4772
+ndcg_cut_10           	all	0.4699
+ndcg_cut_15           	all	0.4184
+ndcg_cut_20           	all	0.3866
+ndcg_cut_30           	all	0.3376
+ndcg_cut_100          	all	0.2948
+ndcg_cut_200          	all	0.3283
+ndcg_cut_500          	all	0.3726
+ndcg_cut_1000         	all	0.4092
+</pre>
+
+<h2>Plots P@10</h2>
+<p>The plots below compare each of your runs against the median and best performance (p@10) across all systems  submitted to CLEF for each query topic. In particular, for each query, the height of a bar represents the gain/loss of your system and the best system (for that query) over the median system. The height of a bar in then given by:</p>
+<pre>grey bars:   height(q) = your_p@10(q) - median_p@10(q)
+white bars:  height(q) = best_p@10(q) - median_p@10(q)</pre>
+
+ <h4>CUNI_FR_RUN.1.dat</h4>
+<img src="./img/CUNI_FR_RUN.1.dat.p10.png"/>
+ <h4>CUNI_FR_RUN.5.dat</h4>
+<img src="./img/CUNI_FR_RUN.5.dat.p10.png"/>
+ <h4>CUNI_FR_RUN.6.dat</h4>
+<img src="./img/CUNI_FR_RUN.6.dat.p10.png"/>
+      </div>
+    </div>
+
+    <p></p><hr><p></p>
+    <footer class="row">
+        <div class="span6">
+           <p><a href="https://github.com/bevankoopman/relevation">relevation</a> - Information Retrieval Relevance Judging System</p>
+      </div>
+    </footer>
+</div> <!-- container -->
+</body></html>

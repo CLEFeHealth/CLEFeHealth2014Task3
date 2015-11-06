@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<topics>
+<topic><id>qtest2014.1</id>
+    <discharge_summary>00211-027889-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Coronary artery disease.</title>
+    <desc>What does coronary artery disease mean? </desc>
+    <narr>The documents should contain basic information about coronary artery disease and its care.</narr>
+    <profile>This positive 83 year old woman has had problems with her heart with increased shortness of breath for a while. She has now received a diagnosis for these problems having visited a doctor. She and her daughter are seeking information from the internet related to the condition she has been diagnosed with. They have no knowledge about the disease.</profile>
+  </topic>
+<topic><id>qtest2014.2</id>
+    <discharge_summary>01234-029456-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Sepsis</title>
+    <desc>Could sepsis be the cause of death?</desc>
+    <narr>The document should contain information about sepsis in general and its possible consequences</narr>
+    <profile>The patient was an 83 year-old lady who died after sepsis. Her daughter wants to know if sepsis  is the possible cause of her death. She does not know what sepsis means.</profile>
+  </topic>
+<topic><id>qtest2014.3</id>
+    <discharge_summary>01314-028800-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>L hemopneumothorax</title>
+    <desc>What are the late complications of hemopneumothorax?</desc>
+    <narr>The document should contain information about the late complications of  hemopneumothorax. </narr>
+    <profile>70 year old male had driven a car without safety belt and ended up in an accident. He has multiple fractures on his chest and elsewhere. His relatives want to know how they should take care of him at home. They are advised to check regularly if he has chest pain, shortness of breath, severe nausea or vomiting, high fever, or weakness. They want to know why.</profile>
+  </topic>
+<topic><id>qtest2014.4</id>
+    <discharge_summary>02115-010823-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Anoxic brain injury</title>
+    <desc>Can one experience pain if there is a severe brain injury?</desc>
+    <narr>The document should contain information about brain injury and pain.</narr>
+    <profile>The daughter of this now dead 87 year old woman wants to know if it was possible for her mother to have unnoticed pain with the severe brain injury that she had in her last days. </profile>
+  </topic>
+<topic><id>qtest2014.5</id>
+    <discharge_summary>02136-017465-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Upper gastrointestinal bleed</title>
+    <desc>What are the possible causes of gastrointestinal bleeding?</desc>
+    <narr>The document should contain information about causes of gastrointestinal bleeding.</narr>
+    <profile>This male patient is familiar with most of his diseases but now wants to know what could have caused his gastrointestinal bleeding. He did not get a clear answer from the doctor and his discharge summary did not reveal the answer either. </profile>
+  </topic>
+<topic><id>qtest2014.6</id>
+    <discharge_summary>02410-026171-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Aortic stenosis</title>
+    <desc>What is aortic stenosis and how is it treated?</desc>
+    <narr>The document should contain information about aortic stenosis and its treatment options.</narr>
+    <profile>71 year old man has had aortic stenosis before and is familiar with the disease. He knows quite a lot about his disease but since it is a while since his previous operation he wants to update his knowledge on the disease and its treatment.</profile>
+  </topic>
+<topic><id>qtest2014.7</id>
+    <discharge_summary>02652-006395-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Dropped gallstone abscess, right flank</title>
+    <desc>How can one get a dropped gallstone abscess and are they common?</desc>
+    <narr>The document should contain information about dropped gallstones, their abscesses, how frequent they are and what causes them.</narr>
+    <profile>This patient is a relatively healthy elderly man. He is curious to know more about gallstones and especially how they can get abscesses and become dropped.</profile>
+  </topic>
+<topic><id>qtest2014.8</id>
+    <discharge_summary>03273-009330-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Alcohol withdrawal seizures</title>
+    <desc>How dangerous are alcohol withdrawal seizures?</desc>
+    <narr>The document should contain information about alcohol withdrawal seizures and their consequences.</narr>
+    <profile>This 47 year old man has a long history of alcohol and other substance abuse. His sister wants to explain to their parents the type of problem alcohol withdrawal seizures is and its consequences </profile>
+  </topic>
+<topic><id>qtest2014.9</id>
+    <discharge_summary>04269-027967-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Right upper lobe pneumonia with cavitary lesion </title>
+    <desc>What does cavitary lesion mean in connection with upper lobe pneumonia?</desc>
+    <narr>This document should contain inforamtion about upper loab pneumonia and cavitary lesions</narr>
+    <profile>This 39 year old male has been mostly healthy but now after aspiration has developed pneumonia. He wants to know more about it, since it has made him feel very tired and uncomfortable.</profile>
+  </topic>
+<topic><id>qtest2014.10</id>
+    <discharge_summary>04303-005081-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Traumatic brain injury, status post fall</title>
+    <desc>What are the possible consequences of brain injury?</desc>
+    <narr>The document should contain information about brain injury and its possible consequences</narr>
+    <profile>The patient has had brain injury following a fall. He and his children want to know what they should be aware of now that the patient is being discharged from hospital and there is still a danger of bleeding.</profile>
+  </topic>
+<topic><id>qtest2014.11</id>
+    <discharge_summary>07429-001857-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>aspiration pneumonia due to misplacement of dobhoff tube</title>
+    <desc>What is a dobhoff tube and why has it caused pneumonia</desc>
+    <narr>The document should contain information about a dobhoff tube and consequences of misplacement.</narr>
+    <profile>This elderly lady has been in a bad car accident. She has needed a tube for feeding. The tube has accidentally been placed to her lung instead of stomach. It has caused pneumonia. The family wants to know if this is a common problem or rather a rare accident.</profile>
+  </topic>
+<topic><id>qtest2014.12</id>
+    <discharge_summary>07514-025655-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>hepatic encephalopathy</title>
+    <desc>What is hepatic encephalopathy and why does it cause confusion?</desc>
+    <narr>The document should contain information about hepatic encephalopathy and its consequences</narr>
+    <profile>The patient has a history of C-hepatitis and now suffers from hepatic encephalopathy. Patient and wife want to know more about this scary problem and how dangerous it really is.</profile>
+  </topic>
+<topic><id>qtest2014.13</id>
+    <discharge_summary>08703-021487-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Status post narrow field laryngectomy</title>
+    <desc>What is narrow field laryngectomy?</desc>
+    <narr>The document should contain information about narrow field laryngectomy. </narr>
+    <profile>This young man with downs syndrome has had chronic aspiration for a long time and his larynx has now been operated on. The patients family wants to know more about the procedure that was conducted.</profile>
+  </topic>
+<topic><id>qtest2014.14</id>
+    <discharge_summary>09337-018472-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Myocardial infarction</title>
+    <desc>What is myocardial infarction?</desc>
+    <narr>The document should contain information about myocardial infarction.</narr>
+    <profile>This elderly lady has had her first myocardial infarction and she and her family want to know more about the disease since no one in her close family has ever had heart diseases.</profile>
+  </topic>
+<topic><id>qtest2014.15</id>
+    <discharge_summary>10101-012638-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Non small cell lung cancer</title>
+    <desc>Is lung cancer hereditary? </desc>
+    <narr>The document should contain information about different types of lung cancer and how likely it is that it runs in the family.</narr>
+    <profile>The 74 year old male patient dies from lung cancer and his children want to know if it is likely that they will also get lung cancer.</profile>
+  </topic>
+<topic><id>qtest2014.16</id>
+    <discharge_summary>10644-007491-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>stroke and respiratory failure</title>
+    <desc>Are stroke and respiratory failure linked together?</desc>
+    <narr>The document should contain information about stroke and respiratory failure.</narr>
+    <profile>This 78 year old priest recovered from a stroke and now wants to know if and how his two diagnosis, stroke and respiratory failure, are connected to each.</profile>
+  </topic>
+<topic><id>qtest2014.17</id>
+    <discharge_summary>11439-014138-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>chronic duodenal ulcer</title>
+    <desc>How common is it that the ulcer starts to bleed again?</desc>
+    <narr>The document should contain information about chronic duodenal ulcers.</narr>
+    <profile>This middle aged, previously healthy man, had bloody stool for several days and was found to have chronic duodenal ulcers. He and his wife want to know more about the disease since the man's father died from gastrointestinal bleeding.</profile>
+  </topic>
+<topic><id>qtest2014.18</id>
+    <discharge_summary>11762-027273-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>dizziness and hypotension</title>
+    <desc>How to prevent dizziness and hypotension?</desc>
+    <narr>The document should contain information about hypotension and dizziness.</narr>
+    <profile>This 63 year old lady lives in a group home due to her mental illness. She fainted and had to visit the hospital. Now that she is back home, her caregivers want to know how they could best prevent the fainting occurring again. </profile>
+  </topic>
+<topic><id>qtest2014.19</id>
+    <discharge_summary>11823-007872-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>L common carotid aneurysm</title>
+    <desc>What is common carotid aneurysm?</desc>
+    <narr>The document should contain information about left common carotid aneurysm.</narr>
+    <profile>This young male had seizures and examinations revealed he had a left common carotid aneurysm. He and his family want to know more about this disease.</profile>
+  </topic>
+<topic><id>qtest2014.20</id>
+    <discharge_summary>12748-021750-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>subdural hematoma</title>
+    <desc>What is subdural hematoma and can one recover from it?</desc>
+    <narr>The document should contain information about subdural hematoma, its consequences and whether it is possible to recover from it.</narr>
+    <profile>The parents of this lady want to know more about subdural hematoma, the disease which their daughter has. Also they want to know if their daughter will ever be healthy again.</profile>
+  </topic>
+<topic><id>qtest2014.21</id>
+    <discharge_summary>13033-020154-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>renal failure</title>
+    <desc>How dangerous is renal failure and is it recurring?</desc>
+    <narr>The document should contain information about renal failure, its causes and consequences</narr>
+    <profile>Patient has had diabetes mellitys, hypertension and gastroparesis before. Now his kidneys do not work well and he wants to know more about renal failure.</profile>
+  </topic>
+<topic><id>qtest2014.22</id>
+    <discharge_summary>14708-006815-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>suicidal ideation</title>
+    <desc>Is it common for suicidal ideation to keep recurring?</desc>
+    <narr>The document should contain information about suicidal ideation.</narr>
+    <profile>The parents of this 40 year old male want to know if their son who has schizoaffective disorder is likely to repeat his suicide attempt. </profile>
+  </topic>
+<topic><id>qtest2014.23</id>
+    <discharge_summary>14822-000161-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>coronary artery bypass</title>
+    <desc>How effective is coronary artery bypass in curing the disease?</desc>
+    <narr>The document should contain information about coronary artery bypass and its effectiveness.</narr>
+    <profile>This elderly lady has previously declined a coronary artery bypass operation, but now decided to have it after all. She and her children now want to know more about the operation and its effectiveness.</profile>
+  </topic>
+<topic><id>qtest2014.24</id>
+    <discharge_summary>08951-002958-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Diabetes type 1 and heart problems</title>
+    <desc>How does diabetes type 1 influence heart function?</desc>
+    <narr>Relevant documents should contain information about diabetes type 1 and it's connections to cirkulatory problems especially in heart vessels.</narr>
+    <profile>The patient is a 71 year-old male with a history of four vessel coronary artery bypass graft and diabetes. He has again heart problems and he is worried how the two deseases together will worsen his life.</profile>
+  </topic>
+<topic><id>qtest2014.25</id>
+    <discharge_summary>14897-025566-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>cerebrovascular accident</title>
+    <desc>What is cerebrovascular accident?</desc>
+    <narr>The document should contain basic information about cerbrovascular accident.</narr>
+    <profile>This young man has had probles with his heart and had aortic valve replacement which is now repeated. This time he has some complications and wants to know more about cerebrovascular accidents that were one of his diagnosis this time.</profile>
+  </topic>
+<topic><id>qtest2014.26</id>
+    <discharge_summary>15128-008249-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>gastrointestinal bleed</title>
+    <desc>What can cause gastrointestinal bleed and is it common to have it more than once?</desc>
+    <narr>The document should contain information about gastrointestinal bleed, its causes and consequences</narr>
+    <profile>The wife of this middle aged man, with a long history of heavy drinking, is curious to know how common it is for gastrointestinal bleeding to recur.</profile>
+  </topic>
+<topic><id>qtest2014.27</id>
+    <discharge_summary>15272-026154-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>aortic valve replacement, ARV</title>
+    <desc>What is aortic valve replacement?</desc>
+    <narr>The document should contain basic information about aortic valve replacement.</narr>
+    <profile>This is this elderly ladies second ARV, and she has now decided to learn more about her disease. Previously she has just been passive, but now wants to know more about her condition.</profile>
+  </topic>
+<topic><id>qtest2014.28</id>
+    <discharge_summary>16013-015541-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>intermittent abdominal pain</title>
+    <desc>What can cause abdominal pain?</desc>
+    <narr>The document should contain information about possible causes of abdominal pain.</narr>
+    <profile>The children of this elderly lady want to know the possible caused of their mothers severe abdominal pain which recurs every now and then. There was no clear diagnosis.</profile>
+  </topic>
+<topic><id>qtest2014.29</id>
+    <discharge_summary>16044-019401-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Aortic stenosis, status post aortic valve replacement and recovery</title>
+    <desc>How long is the convalescence after an aortic valve operation?</desc>
+    <narr>Relevant documents should provide information about the physical and mental recovery after the operation.</narr>
+    <profile>This is a 58 year old female patient who has suffered from aortic stenosis and who has had an operation to treat this. Now she is at home and wants to know more about her recovery.</profile>
+  </topic>
+<topic><id>qtest2014.30</id>
+    <discharge_summary>16093-011230-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Tracheobronchomalacia</title>
+    <desc>How severe of a disease is tracheobronchomalacia?</desc>
+    <narr>Relevant documents should provide information on the consequences of having tracheobronchomalacia.</narr>
+    <profile>The patient is a 74 year old man who has had a chronic and severe cough and who has now been diagnosis with tracheobronchomalacia. His children want to know what the disease means for their father.</profile>
+  </topic>
+<topic><id>qtest2014.31</id>
+    <discharge_summary>16597-023618-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Acute renal failure</title>
+    <desc>Could an acute renal failure cause death?</desc>
+    <narr>Relevant documents should provide information on the causes and consequences of acute renal failure.</narr>
+    <profile>The patient is an 82 year old male who suffered from acute renal failure which was incurable. The patient is now in hospice care and his relatives want to know more about the disease.</profile>
+  </topic>
+<topic><id>qtest2014.32</id>
+    <discharge_summary>16888-003484-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>advices for patient with Acute infartus myocardi</title>
+    <desc>What are the causes of myocardial infarction and how can they be avoided?</desc>
+    <narr>Relevant documents should provide health information for heart patients helping them avoid infarction.</narr>
+    <profile>The patient is a 48 year old woman at high risk of heart failure. After the first infarction she wants to know how to live in a healthier way.</profile>
+  </topic>
+<topic><id>qtest2014.33</id>
+    <discharge_summary>16994-022078-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Repiratory failure and CHF</title>
+    <desc>What are the connections between respiratory failure and CHF? </desc>
+    <narr>Relevant documents should contain information about respiratory failure and CHF.</narr>
+    <profile>The patient is a 68 years old woman who has suffered from CHF for a long time. Now she was taken to the hospital because of respiratory failure and she wants to know about the connection between these two maladies.</profile>
+  </topic>
+<topic><id>qtest2014.34</id>
+    <discharge_summary>17090-026395-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>bleeding after hip operation</title>
+    <desc>What could cause a laceration in the femoral artery after a hip replacement operation?</desc>
+    <narr>Relevant documents should contain information about the circulatory complications after a hip replacement.</narr>
+    <profile>The patient is a 65 year old male who was reoperated on because of enormous bleeding. He wants to know about causes of the bleeding, and whether the surgeon was negligent.</profile>
+  </topic>
+<topic><id>qtest2014.35</id>
+    <discharge_summary>17217-011306-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Peptic Ulcer disease</title>
+    <desc>What kind of food is recommended after being diagnosed with peptic ulcer?</desc>
+    <narr>Relevant documents should contain information about the recommended diet for gastric ulcer patients.</narr>
+    <profile>The patient is a 43 year old man with black tarry stools at home. He wants to know what kind of diet would have a positive effect on his recovery.</profile>
+  </topic>
+<topic><id>qtest2014.36</id>
+    <discharge_summary>17336-021181-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>convalescence after an open pelvic fracture and a right superior rami fracture.</title>
+    <desc>How long is the convalescence after a right open pelvic fracture and a right superior rami fracture?</desc>
+    <narr>Relevant documents should contain information about rehabilitation after pelvis and rami fracture.</narr>
+    <profile>The patient is an 18 year old female who obtained the fractures in a car crash. She wants to know how long of a time it will be before she can sit and walk.</profile>
+  </topic>
+<topic><id>qtest2014.37</id>
+    <discharge_summary>17473-000673-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>causes for gynecolocigal bleeding</title>
+    <desc>What are the causes of massive gynecological bleeding?</desc>
+    <narr>Relevant documents should contain information about the causes of gynecolocigal bleeding</narr>
+    <profile>This is a 43 year old gravida who had a massive gynecological bleeding and who had to undergo a supracervical hysterectomy, and right salpingo-oophorectomy. Now she wants to know the causes of the bleeding.</profile>
+  </topic>
+<topic><id>qtest2014.38</id>
+    <discharge_summary>18321-022756-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>causes for oesophagus bleeding</title>
+    <desc>What are the causes of oesophagus bleeding?</desc>
+    <narr>Relevant documents should contain information about oesophagus bleeding.</narr>
+    <profile>Patient is a 50 year old woman who had been vomiting bright red blood. She wants to know why she was bleeding.</profile>
+  </topic>
+<topic><id>qtest2014.39</id>
+    <discharge_summary>19649-021294-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>surviving rates after a secondary myocardial infarctus.</title>
+    <desc>What is the probability of surviving a second myocardial infarction?</desc>
+    <narr>Relevant documents should contain information about survival rates following a myocardial infarction.</narr>
+    <profile>Patient is a 54 year old male with a history of myocardial infarction. Now he wants to know how lucky he has been having survived a second infarction.</profile>
+  </topic>
+<topic><id>qtest2014.40</id>
+    <discharge_summary>19709-026760-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Bilateral pulmonary contusions and safety belt</title>
+    <desc>What are bilateral pulmonary contusions and could they have been avoided in a car accident?</desc>
+    <narr>The relevant document should contain information about the injuries thjat can avoided when using safety belt.</narr>
+    <profile>The patient was an unrestrained driver in a high-speed motor vehicle collision and now she wants to know if the safety belt could have saved her from these injuries.</profile>
+  </topic>
+<topic><id>qtest2014.41</id>
+    <discharge_summary>19791-003873-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Pancreatic Pseudocyst and alcohol consumption</title>
+    <desc>What is the connection between pancreatic pseudocyst and alcohol?</desc>
+    <narr>Relevant documents should contain information on what causes pancreatic pseudocysts</narr>
+    <profile>This 55 year old lady has a history of chronic alcohol-induced pancreatitis. Now her children want to know if the alcohol consumption could be the cause of her diagnosis.</profile>
+  </topic>
+<topic><id>qtest2014.42</id>
+    <discharge_summary>20038-028322-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>foramen ovale</title>
+    <desc>What is foramen ovale and what are its causes?</desc>
+    <narr>Relevant documents should contain information on the causes and symptoms of foramen ovale.</narr>
+    <profile>This 40 year old female has undergone an operation for foramen ovale and now she wants to know what it means and how a person can get it.</profile>
+  </topic>
+<topic><id>qtest2014.43</id>
+    <discharge_summary>21633-029484-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>coronary artery disease and insulin dependent diabetes mellitus</title>
+    <desc>What is the influence of insulin-dependent diabetes mellitus on coronary artery disease?</desc>
+    <narr>Relevant documents should contain information about the connections between insulin-dependent diabetes mellitus and coronary artery disease.</narr>
+    <profile>This is a 61 year old gentleman who wants to know if there is a connection between diabetes and heart problems.</profile>
+  </topic>
+<topic><id>qtest2014.44</id>
+    <discharge_summary>21745-025001-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>how can I avoid small bowel obstruction</title>
+    <desc>What are the causes of small bowel obstruction and how could the disease be avoided?</desc>
+    <narr>Relevant documents should contain information on the causes of small bowel obstruction and give instructions for life style changes that help to avoid the disease.</narr>
+    <profile>The daughter of this is 85 year old female wants to get information on her mother's disease. She also wants to know how she can help her mother in avoiding getting the disease again.</profile>
+  </topic>
+<topic><id>qtest2014.45</id>
+    <discharge_summary>21833-003461-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Group A streptococcus bacteremia</title>
+    <desc>What does Group A streptococcus bacteremia mean?</desc>
+    <narr>Relevant documents should contain information about group A streptococcus bacteremia, its causes and treatment.</narr>
+    <profile>The husband of the 37 year old female patient wants to know about the disease his wife is suffering from.</profile>
+  </topic>
+<topic><id>qtest2014.46</id>
+    <discharge_summary>22739-020612-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>complications of type 1 diabetes mellitus</title>
+    <desc>What are the long-term and short-term complications of type 1 diabetes mellitus?</desc>
+    <narr>Relevant documents should contain information about the complications of type 1 diabetes mellitus.</narr>
+    <profile>This is a 30 year old male who has just found out that he has type 1 diabetes mellitus. He has heard about the complications of the disease and now he wants to know more about them.</profile>
+  </topic>
+<topic><id>qtest2014.47</id>
+    <discharge_summary>22821-026994-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>tretament for subarachnoid hemorrage</title>
+    <desc>What are the treatments for subarachnoid hemorrage?</desc>
+    <narr>Relevant documents should contain information on the treatment for subarachnoid hemorrage.</narr>
+    <profile>This 36 year old male patient does not remember how he was treated in the hospital. Now he wants to know about the care for subarachnoid hemorrage patients.</profile>
+  </topic>
+<topic><id>qtest2014.48</id>
+    <discharge_summary>23590-017830-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title> White blood cells with moderate bacteria in urinanalysis</title>
+    <desc>What does it mean to have  white blood cells with moderate bacteria in urinanalysis? </desc>
+    <narr>Relevant documents should contain information about urin infections and their treatment.</narr>
+    <profile>This patient wants to know what the sentence in her laboratory results mean. She wants to know if medication is needed to treat  the condition. </profile>
+  </topic>
+<topic><id>qtest2014.49</id>
+    <discharge_summary>24432-013472-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Chronic lymphocytic leukemia and hereditarity</title>
+    <desc>Is chronic lymphocytic leukemia hereditary?</desc>
+    <narr>The relevant document should contain information about the heritability of chronic lymphocytic leukemia.</narr>
+    <profile>The children of this 80 year old man who had many diseases and who has just died want to know if one of the diseases, chronic lymphocytic leukemia, is hereditary.</profile>
+  </topic>
+<topic><id>qtest2014.50</id>
+    <discharge_summary>00098-016139-DISCHARGE_SUMMARY.txt</discharge_summary>
+    <title>Cerebral aneurysm</title>
+    <desc>What is cerebral aneurysm?</desc>
+    <narr>Relevant documents should contain information about the causes and treatment of cerebral aneurysm.</narr>
+    <profile>The husband of the 40 year old female patient who was taken to the hospital with diagnosis of possible cerebral aneurysm, wants to know about the disease his wife is suffering from.</profile>
+  </topic>
+</topics>
